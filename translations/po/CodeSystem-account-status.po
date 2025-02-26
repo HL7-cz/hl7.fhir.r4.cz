@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Language: cs\n"
+"X-Generator: Poedit 3.5\n"
+
+# en -> cs
+
+msgctxt "active"
+msgid "Active"
+msgstr ""
+
+msgctxt "active@definition"
+msgid "This account is active and may be used."
+msgstr ""
+
+msgctxt "inactive"
+msgid "Inactive"
+msgstr ""
+
+msgctxt "inactive@definition"
+msgid "This account is inactive and should not be used to track financial information."
+msgstr ""
+
+msgctxt "entered-in-error"
+msgid "Entered in error"
+msgstr ""
+
+msgctxt "entered-in-error@definition"
+msgid "This instance should not have been part of this patient's medical record."
+msgstr ""
+
+msgctxt "on-hold"
+msgid "On Hold"
+msgstr ""
+
+msgctxt "on-hold@definition"
+msgid "This account is on hold."
+msgstr ""
+
+msgctxt "unknown"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "unknown@definition"
+msgid "The account status is unknown."
+msgstr ""
+

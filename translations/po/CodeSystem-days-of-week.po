@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Language: cs\n"
+"X-Generator: Poedit 3.5\n"
+
+# en -> cs
+
+msgctxt "mon"
+msgid "Monday"
+msgstr ""
+
+msgctxt "mon@definition"
+msgid "Monday."
+msgstr ""
+
+msgctxt "tue"
+msgid "Tuesday"
+msgstr ""
+
+msgctxt "tue@definition"
+msgid "Tuesday."
+msgstr ""
+
+msgctxt "wed"
+msgid "Wednesday"
+msgstr ""
+
+msgctxt "wed@definition"
+msgid "Wednesday."
+msgstr ""
+
+msgctxt "thu"
+msgid "Thursday"
+msgstr ""
+
+msgctxt "thu@definition"
+msgid "Thursday."
+msgstr ""
+
+msgctxt "fri"
+msgid "Friday"
+msgstr ""
+
+msgctxt "fri@definition"
+msgid "Friday."
+msgstr ""
+
+msgctxt "sat"
+msgid "Saturday"
+msgstr ""
+
+msgctxt "sat@definition"
+msgid "Saturday."
+msgstr ""
+
+msgctxt "sun"
+msgid "Sunday"
+msgstr ""
+
+msgctxt "sun@definition"
+msgid "Sunday."
+msgstr ""
+

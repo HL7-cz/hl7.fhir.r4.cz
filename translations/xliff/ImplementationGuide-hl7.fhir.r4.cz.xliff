@@ -1,0 +1,411 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="cs" id="ImplementationGuide-hl7.fhir.r4.cz" original="Resource ImplementationGuide-hl7.fhir.r4.cz" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.name">
+             <notes>
+               <note id="n1">A natural language name identifying the implementation guide. This name should be usable as an identifier for the module by machine processing applications such as code generation.</note>
+             </notes>
+        <source>FHIRLangPackCzech</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.title">
+             <notes>
+               <note id="n1">A short, descriptive, user-friendly title for the implementation guide.</note>
+             </notes>
+        <source>Language pack FHIR - čeština</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.publisher">
+             <notes>
+               <note id="n1">The name of the organization or individual that published the implementation guide.</note>
+             </notes>
+        <source>HL7 Czech Republic</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.description">
+             <notes>
+               <note id="n1">A free text natural language description of the implementation guide from a consumer's perspective.</note>
+             </notes>
+        <source>FHIR Language Pack - Czech Translations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.dependsOn.version">
+             <notes>
+               <note id="n1">The version of the IG that is depended on, when the correct version is required to understand the IG correctly.</note>
+             </notes>
+        <source>6.2.0</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.dependsOn.version">
+             <notes>
+               <note id="n1">The version of the IG that is depended on, when the correct version is required to understand the IG correctly.</note>
+             </notes>
+        <source>5.2.0</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.dependsOn.version">
+             <notes>
+               <note id="n1">The version of the IG that is depended on, when the correct version is required to understand the IG correctly.</note>
+             </notes>
+        <source>4.0.1</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>ContactEntityType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>This example value set defines a set of codes that can be used to indicate the purpose for which you would contact a contact party.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>NullFlavor</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>A collection of codes specifying why a valid value is not present.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>AccountStatus</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Indicates whether the account is available to be used.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>AdministrativeGender</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>The gender of a person used for administrative purposes.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>MaritalStatus</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>\* \* \* No description supplied \* \* \*
+
+*Open Issue:* The specific meanings of these codes can vary somewhat by jurisdiction and implementation so caution should be used when determining equivalency.
+
+*Open Issue:* fixing and completion of the hierarchy and proper good definitions of all the concepts is badly needed.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>IdentifierUse</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Identifies the purpose for this identifier, if known .</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>DaysOfWeek</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>The days of the week.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>ContactPointUse</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Use of contact point.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>AddressType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>The type of an address (physical / postal).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>ContactRole2</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Code system of concepts which specify a relationship role that the next of kin/associated parties plays with regard to the patient. Also used in referrals, for example, it may be necessary to identify the contact representative at the clinic that sent a referral. Used in HL7 Version 2 messaging in the NK1 and CTD segments after 2.5, when it replace 2.16.840.1.113883.18.57.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>ConditionVerificationStatus</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>The verification status to support or decline the clinical status of the condition or diagnosis.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>IdentifierType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>HL7-defined code system of concepts specifying type of identifier. Used in HL7 Version 2.x messaging data types CX, PLN, PPN, XCN and XON.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>EntityNamePartQualifierR2</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>**Description:**The qualifier is a set of codes each of which specifies a certain subcategory of the name part in addition to the main name part type. For example, a given name may be flagged as a nickname, a family name may be a pseudonym or a name of public records.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>ContactPointSystem</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Telecommunications form for contact point.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>NameUse</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>The use of a human name.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>AddressUse</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>The use of an address.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>LinkType</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>The type of link between this patient resource and another patient resource.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.page.title">
+             <notes>
+               <note id="n1">A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.</note>
+             </notes>
+        <source>Home Page</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.parameter.value">
+             <notes>
+               <note id="n1">Value for named type.</note>
+             </notes>
+        <source>input/capabilities</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.parameter.value">
+             <notes>
+               <note id="n1">Value for named type.</note>
+             </notes>
+        <source>input/examples</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.parameter.value">
+             <notes>
+               <note id="n1">Value for named type.</note>
+             </notes>
+        <source>input/extensions</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.parameter.value">
+             <notes>
+               <note id="n1">Value for named type.</note>
+             </notes>
+        <source>input/models</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.parameter.value">
+             <notes>
+               <note id="n1">Value for named type.</note>
+             </notes>
+        <source>input/operations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.parameter.value">
+             <notes>
+               <note id="n1">Value for named type.</note>
+             </notes>
+        <source>input/profiles</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.parameter.value">
+             <notes>
+               <note id="n1">Value for named type.</note>
+             </notes>
+        <source>input/resources</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.parameter.value">
+             <notes>
+               <note id="n1">Value for named type.</note>
+             </notes>
+        <source>input/vocabulary</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.parameter.value">
+             <notes>
+               <note id="n1">Value for named type.</note>
+             </notes>
+        <source>input/maps</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.parameter.value">
+             <notes>
+               <note id="n1">Value for named type.</note>
+             </notes>
+        <source>input/testing</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.parameter.value">
+             <notes>
+               <note id="n1">Value for named type.</note>
+             </notes>
+        <source>input/history</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.parameter.value">
+             <notes>
+               <note id="n1">Value for named type.</note>
+             </notes>
+        <source>fsh-generated/resources</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.parameter.value">
+             <notes>
+               <note id="n1">Value for named type.</note>
+             </notes>
+        <source>template/config</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.parameter.value">
+             <notes>
+               <note id="n1">Value for named type.</note>
+             </notes>
+        <source>input/images</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-hl7.fhir.r4.cz" resname="ImplementationGuide.ImplementationGuide.definition.parameter.value">
+             <notes>
+               <note id="n1">Value for named type.</note>
+             </notes>
+        <source>input-cache/txcache</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

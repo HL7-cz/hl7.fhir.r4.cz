@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="cs" id="CodeSystem-v3-MaritalStatus" original="Resource CodeSystem-v3-MaritalStatus" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-v3-MaritalStatus" resname="A">
+        <source>Annulled</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-MaritalStatus" resname="A@definition">
+        <source>Marriage contract has been declared null and to not have existed</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-MaritalStatus" resname="D">
+        <source>Divorced</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-MaritalStatus" resname="D@definition">
+        <source>Marriage contract has been declared dissolved and inactive</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-MaritalStatus" resname="I">
+        <source>Interlocutory</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-MaritalStatus" resname="I@definition">
+        <source>Subject to an Interlocutory Decree.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-MaritalStatus" resname="L">
+        <source>Legally Separated</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-MaritalStatus" resname="M">
+        <source>Married</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-MaritalStatus" resname="M@definition">
+        <source>A current marriage contract is active</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-MaritalStatus" resname="C">
+        <source>Common Law</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-MaritalStatus" resname="C@definition">
+        <source>a marriage recognized in some jurisdictions and based on the parties' agreement to consider themselves married and can also be based on documentation of cohabitation.
+
+This definition was based on https://www.merriam-webster.com/dictionary/common-law%20marriage.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-MaritalStatus" resname="P">
+        <source>Polygamous</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-MaritalStatus" resname="P@definition">
+        <source>More than 1 current spouse</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-MaritalStatus" resname="T">
+        <source>Domestic partner</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-MaritalStatus" resname="T@definition">
+        <source>Person declares that a domestic partner relationship exists.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-MaritalStatus" resname="U">
+        <source>unmarried</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-MaritalStatus" resname="U@definition">
+        <source>Currently not in a marriage contract.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-MaritalStatus" resname="S">
+        <source>Never Married</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-MaritalStatus" resname="S@definition">
+        <source>No marriage contract has ever been entered</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-MaritalStatus" resname="W">
+        <source>Widowed</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v3-MaritalStatus" resname="W@definition">
+        <source>The spouse has died</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

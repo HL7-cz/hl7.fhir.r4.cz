@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Language: cs\n"
+"X-Generator: Poedit 3.5\n"
+
+# en -> cs
+
+msgctxt "usual"
+msgid "Usual"
+msgstr ""
+
+msgctxt "usual@definition"
+msgid "The identifier recommended for display and use in real-world interactions."
+msgstr ""
+
+msgctxt "official"
+msgid "Official"
+msgstr ""
+
+msgctxt "official@definition"
+msgid "The identifier considered to be most trusted for the identification of this item. Sometimes also known as "primary" and "main". The determination of "official" is subjective and implementation guides often provide additional guidelines for use."
+msgstr ""
+
+msgctxt "temp"
+msgid "Temp"
+msgstr ""
+
+msgctxt "temp@definition"
+msgid "A temporary identifier."
+msgstr ""
+
+msgctxt "secondary"
+msgid "Secondary"
+msgstr ""
+
+msgctxt "secondary@definition"
+msgid "An identifier that was assigned in secondary use - it serves to identify the object in a relative context, but cannot be consistently assigned to the same object again in a different context."
+msgstr ""
+
+msgctxt "old"
+msgid "Old"
+msgstr ""
+
+msgctxt "old@definition"
+msgid "The identifier id no longer considered valid, but may be relevant for search purposes.  E.g. Changes to identifier schemes, account merges, etc."
+msgstr ""
+

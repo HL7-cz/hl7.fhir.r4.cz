@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="cs" id="CodeSystem-address-use" original="Resource CodeSystem-address-use" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-address-use" resname="home">
+        <source>Home</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-address-use" resname="home@definition">
+        <source>A communication address at a home.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-address-use" resname="work">
+        <source>Work</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-address-use" resname="work@definition">
+        <source>An office address. First choice for business related contacts during business hours.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-address-use" resname="temp">
+        <source>Temporary</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-address-use" resname="temp@definition">
+        <source>A temporary address. The period can provide more detailed information.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-address-use" resname="old">
+        <source>Old / Incorrect</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-address-use" resname="old@definition">
+        <source>This address is no longer in use (or was never correct but retained for records).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-address-use" resname="billing">
+        <source>Billing</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-address-use" resname="billing@definition">
+        <source>An address to be used to send bills, invoices, receipts etc.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

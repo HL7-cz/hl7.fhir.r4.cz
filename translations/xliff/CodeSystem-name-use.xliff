@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="cs" id="CodeSystem-name-use" original="Resource CodeSystem-name-use" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-name-use" resname="usual">
+        <source>Usual</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-name-use" resname="usual@definition">
+        <source>Known as/conventional/the one you normally use.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-name-use" resname="official">
+        <source>Official</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-name-use" resname="official@definition">
+        <source>The formal name as registered in an official (government) registry, but which name might not be commonly used. May be called &quot;legal name&quot;.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-name-use" resname="temp">
+        <source>Temp</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-name-use" resname="temp@definition">
+        <source>A temporary name. Name.period can provide more detailed information. This may also be used for temporary names assigned at birth or in emergency situations.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-name-use" resname="nickname">
+        <source>Nickname</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-name-use" resname="nickname@definition">
+        <source>A name that is used to address the person in an informal manner, but is not part of their formal or usual name.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-name-use" resname="anonymous">
+        <source>Anonymous</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-name-use" resname="anonymous@definition">
+        <source>Anonymous assigned name, alias, or pseudonym (used to protect a person's identity for privacy reasons).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-name-use" resname="old">
+        <source>Old</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-name-use" resname="old@definition">
+        <source>This name is no longer in use (or was never correct, but retained for records).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-name-use" resname="maiden">
+        <source>Name changed for Marriage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-name-use" resname="maiden@definition">
+        <source>A name used prior to changing name because of marriage. This name use is for use by applications that collect and store names that were used prior to a marriage. Marriage naming customs vary greatly around the world, and are constantly changing. This term is not gender specific. The use of this term does not imply any particular history for a person's name.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

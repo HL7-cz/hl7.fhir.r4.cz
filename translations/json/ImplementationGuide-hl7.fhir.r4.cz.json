@@ -1,0 +1,353 @@
+{
+  "id" : "ImplementationGuide-hl7.fhir.r4.cz",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "cs",
+      "entries" : [
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.name",
+          "context" : "A natural language name identifying the implementation guide. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
+          "source" : "FHIRLangPackCzech",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.title",
+          "context" : "A short, descriptive, user-friendly title for the implementation guide.",
+          "source" : "Language pack FHIR - čeština",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.publisher",
+          "context" : "The name of the organization or individual that published the implementation guide.",
+          "source" : "HL7 Czech Republic",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.description",
+          "context" : "A free text natural language description of the implementation guide from a consumer's perspective.",
+          "source" : "FHIR Language Pack - Czech Translations",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.dependsOn.version",
+          "context" : "The version of the IG that is depended on, when the correct version is required to understand the IG correctly.",
+          "source" : "6.2.0",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.dependsOn.version",
+          "context" : "The version of the IG that is depended on, when the correct version is required to understand the IG correctly.",
+          "source" : "5.2.0",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.dependsOn.version",
+          "context" : "The version of the IG that is depended on, when the correct version is required to understand the IG correctly.",
+          "source" : "4.0.1",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "ContactEntityType",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "This example value set defines a set of codes that can be used to indicate the purpose for which you would contact a contact party.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "NullFlavor",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "A collection of codes specifying why a valid value is not present.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "AccountStatus",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Indicates whether the account is available to be used.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "AdministrativeGender",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "The gender of a person used for administrative purposes.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "MaritalStatus",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "\\* \\* \\* No description supplied \\* \\* \\*\r\n\r\n*Open Issue:* The specific meanings of these codes can vary somewhat by jurisdiction and implementation so caution should be used when determining equivalency.\r\n\r\n*Open Issue:* fixing and completion of the hierarchy and proper good definitions of all the concepts is badly needed.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "IdentifierUse",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Identifies the purpose for this identifier, if known .",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "DaysOfWeek",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "The days of the week.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "ContactPointUse",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Use of contact point.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "AddressType",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "The type of an address (physical / postal).",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "ContactRole2",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Code system of concepts which specify a relationship role that the next of kin/associated parties plays with regard to the patient. Also used in referrals, for example, it may be necessary to identify the contact representative at the clinic that sent a referral. Used in HL7 Version 2 messaging in the NK1 and CTD segments after 2.5, when it replace 2.16.840.1.113883.18.57.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "ConditionVerificationStatus",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "The verification status to support or decline the clinical status of the condition or diagnosis.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "IdentifierType",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "HL7-defined code system of concepts specifying type of identifier. Used in HL7 Version 2.x messaging data types CX, PLN, PPN, XCN and XON.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "EntityNamePartQualifierR2",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "**Description:**The qualifier is a set of codes each of which specifies a certain subcategory of the name part in addition to the main name part type. For example, a given name may be flagged as a nickname, a family name may be a pseudonym or a name of public records.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "ContactPointSystem",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Telecommunications form for contact point.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "NameUse",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "The use of a human name.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "AddressUse",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "The use of an address.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "LinkType",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "The type of link between this patient resource and another patient resource.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.page.title",
+          "context" : "A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.",
+          "source" : "Home Page",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.parameter.value",
+          "context" : "Value for named type.",
+          "source" : "input/capabilities",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.parameter.value",
+          "context" : "Value for named type.",
+          "source" : "input/examples",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.parameter.value",
+          "context" : "Value for named type.",
+          "source" : "input/extensions",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.parameter.value",
+          "context" : "Value for named type.",
+          "source" : "input/models",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.parameter.value",
+          "context" : "Value for named type.",
+          "source" : "input/operations",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.parameter.value",
+          "context" : "Value for named type.",
+          "source" : "input/profiles",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.parameter.value",
+          "context" : "Value for named type.",
+          "source" : "input/resources",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.parameter.value",
+          "context" : "Value for named type.",
+          "source" : "input/vocabulary",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.parameter.value",
+          "context" : "Value for named type.",
+          "source" : "input/maps",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.parameter.value",
+          "context" : "Value for named type.",
+          "source" : "input/testing",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.parameter.value",
+          "context" : "Value for named type.",
+          "source" : "input/history",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.parameter.value",
+          "context" : "Value for named type.",
+          "source" : "fsh-generated/resources",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.parameter.value",
+          "context" : "Value for named type.",
+          "source" : "template/config",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.parameter.value",
+          "context" : "Value for named type.",
+          "source" : "input/images",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.ImplementationGuide.definition.parameter.value",
+          "context" : "Value for named type.",
+          "source" : "input-cache/txcache",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}

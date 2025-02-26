@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Language: cs\n"
+"X-Generator: Poedit 3.5\n"
+
+# en -> cs
+
+msgctxt "BP"
+msgid "Billing contact person"
+msgstr ""
+
+msgctxt "BP@definition"
+msgid "Billing contact person"
+msgstr ""
+
+msgctxt "CP"
+msgid "Contact person"
+msgstr ""
+
+msgctxt "CP@definition"
+msgid "Contact person"
+msgstr ""
+
+msgctxt "EP"
+msgid "Emergency contact person"
+msgstr ""
+
+msgctxt "EP@definition"
+msgid "Emergency contact person"
+msgstr ""
+
+msgctxt "PR"
+msgid "Person preparing referral"
+msgstr ""
+
+msgctxt "PR@definition"
+msgid "Person preparing referral"
+msgstr ""
+
+msgctxt "E"
+msgid "Employer"
+msgstr ""
+
+msgctxt "E@definition"
+msgid "Employer"
+msgstr ""
+
+msgctxt "C"
+msgid "Emergency Contact"
+msgstr ""
+
+msgctxt "C@definition"
+msgid "Emergency Contact"
+msgstr ""
+
+msgctxt "F"
+msgid "Federal Agency"
+msgstr ""
+
+msgctxt "F@definition"
+msgid "Federal Agency"
+msgstr ""
+
+msgctxt "I"
+msgid "Insurance Company"
+msgstr ""
+
+msgctxt "I@definition"
+msgid "Insurance Company"
+msgstr ""
+
+msgctxt "N"
+msgid "Next-of-Kin"
+msgstr ""
+
+msgctxt "N@definition"
+msgid "Next-of-Kin"
+msgstr ""
+
+msgctxt "S"
+msgid "State Agency"
+msgstr ""
+
+msgctxt "S@definition"
+msgid "State Agency"
+msgstr ""
+
+msgctxt "O"
+msgid "Other"
+msgstr ""
+
+msgctxt "O@definition"
+msgid "Other"
+msgstr ""
+
+msgctxt "U"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "U@definition"
+msgid "Unknown"
+msgstr ""
+

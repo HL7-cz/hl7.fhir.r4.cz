@@ -1,0 +1,41 @@
+{
+  "id" : "CodeSystem-address-type",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "cs",
+      "entries" : [
+        {
+          "id" : "postal",
+          "source" : "Postal",
+          "target" : null
+        },
+        {
+          "id" : "postal@definition",
+          "source" : "Mailing addresses - PO Boxes and care-of addresses.",
+          "target" : null
+        },
+        {
+          "id" : "physical",
+          "source" : "Physical",
+          "target" : null
+        },
+        {
+          "id" : "physical@definition",
+          "source" : "A physical address that can be visited.",
+          "target" : null
+        },
+        {
+          "id" : "both",
+          "source" : "Postal & Physical",
+          "target" : null
+        },
+        {
+          "id" : "both@definition",
+          "source" : "An address that is both physical and postal.",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}

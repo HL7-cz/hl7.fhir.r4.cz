@@ -1,0 +1,1391 @@
+{
+  "id" : "CodeSystem-v2-0203",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "cs",
+      "entries" : [
+        {
+          "id" : "AC",
+          "source" : "Accreditation/Certification Identifier",
+          "target" : null
+        },
+        {
+          "id" : "AC@definition",
+          "source" : "Identifier that has been assigned by an accreditation or certification organization in specific fields, indicating a recognized skill",
+          "target" : null
+        },
+        {
+          "id" : "ACSN",
+          "source" : "Accession ID",
+          "target" : null
+        },
+        {
+          "id" : "ACSN@definition",
+          "source" : "Accession Identifier",
+          "target" : null
+        },
+        {
+          "id" : "AIN",
+          "source" : "Animal Identification Number (US Official)",
+          "target" : null
+        },
+        {
+          "id" : "AIN@definition",
+          "source" : "A numbering system for the official identification of individual animals in the United States that provides a nationally unique identification number for each animal. The first two numbers on a tag are the numbers assigned to a specific State.",
+          "target" : null
+        },
+        {
+          "id" : "AM",
+          "source" : "American Express",
+          "target" : null
+        },
+        {
+          "id" : "AM@definition",
+          "source" : "American Express",
+          "target" : null
+        },
+        {
+          "id" : "AMA",
+          "source" : "American Medical Association Number",
+          "target" : null
+        },
+        {
+          "id" : "AMA@definition",
+          "source" : "A physician identifier assigned by the AMA.",
+          "target" : null
+        },
+        {
+          "id" : "AN",
+          "source" : "Account number",
+          "target" : null
+        },
+        {
+          "id" : "AN@definition",
+          "source" : "Account An identifier that is unique to an account.",
+          "target" : null
+        },
+        {
+          "id" : "ANC",
+          "source" : "Account number Creditor",
+          "target" : null
+        },
+        {
+          "id" : "ANC@definition",
+          "source" : "A more precise definition of an account number",
+          "target" : null
+        },
+        {
+          "id" : "AND",
+          "source" : "Account number debitor",
+          "target" : null
+        },
+        {
+          "id" : "AND@definition",
+          "source" : "A more precise definition of an account number",
+          "target" : null
+        },
+        {
+          "id" : "ANON",
+          "source" : "Anonymous identifier",
+          "target" : null
+        },
+        {
+          "id" : "ANON@definition",
+          "source" : "An identifier for a living subject whose real identity is protected or suppressed",
+          "target" : null
+        },
+        {
+          "id" : "ANT",
+          "source" : "Temporary Account Number",
+          "target" : null
+        },
+        {
+          "id" : "ANT@definition",
+          "source" : "Temporary version of an Account Number",
+          "target" : null
+        },
+        {
+          "id" : "APRN",
+          "source" : "Advanced Practice Registered Nurse number",
+          "target" : null
+        },
+        {
+          "id" : "APRN@definition",
+          "source" : "An identifier that is unique to an advanced practice registered nurse within the jurisdiction of a certifying board",
+          "target" : null
+        },
+        {
+          "id" : "ASID",
+          "source" : "Ancestor Specimen ID",
+          "target" : null
+        },
+        {
+          "id" : "ASID@definition",
+          "source" : "A unique identifier for the ancestor specimen.",
+          "target" : null
+        },
+        {
+          "id" : "BA",
+          "source" : "Bank Account Number",
+          "target" : null
+        },
+        {
+          "id" : "BA@definition",
+          "source" : "Bank Account Number",
+          "target" : null
+        },
+        {
+          "id" : "BC",
+          "source" : "Bank Card Number",
+          "target" : null
+        },
+        {
+          "id" : "BC@definition",
+          "source" : "An identifier that is unique to a person's bank card",
+          "target" : null
+        },
+        {
+          "id" : "BCFN",
+          "source" : "Birth Certificate File Number",
+          "target" : null
+        },
+        {
+          "id" : "BCFN@definition",
+          "source" : "The identifier used within the jurisdictional vital records office file system as an auxiliary means of accessing the record associated with the birth certificate.",
+          "target" : null
+        },
+        {
+          "id" : "BCT",
+          "source" : "Birth Certificate",
+          "target" : null
+        },
+        {
+          "id" : "BCT@definition",
+          "source" : "A number associated with a document identifying the event of a person's birth",
+          "target" : null
+        },
+        {
+          "id" : "BR",
+          "source" : "Birth registry number",
+          "target" : null
+        },
+        {
+          "id" : "BR@definition",
+          "source" : "An identifier unique within the Assigning Authority that is the official legal record of a person's birth.",
+          "target" : null
+        },
+        {
+          "id" : "BRN",
+          "source" : "Breed Registry Number",
+          "target" : null
+        },
+        {
+          "id" : "BRN@definition",
+          "source" : "Breed Registry Number",
+          "target" : null
+        },
+        {
+          "id" : "BSNR",
+          "source" : "Primary physician office number",
+          "target" : null
+        },
+        {
+          "id" : "BSNR@definition",
+          "source" : "Primary physician office number",
+          "target" : null
+        },
+        {
+          "id" : "CAAI",
+          "source" : "Consumer Application Account Identifier",
+          "target" : null
+        },
+        {
+          "id" : "CAAI@definition",
+          "source" : "An identifier for the consumer (e.g., patient, caregiver) for an application such as a portal or App.",
+          "target" : null
+        },
+        {
+          "id" : "CC",
+          "source" : "Cost Center number",
+          "target" : null
+        },
+        {
+          "id" : "CC@definition",
+          "source" : "Cost Center number",
+          "target" : null
+        },
+        {
+          "id" : "CONM",
+          "source" : "Change of Name Document",
+          "target" : null
+        },
+        {
+          "id" : "CONM@definition",
+          "source" : "A number associated with a document identifying a person's legal change of name.",
+          "target" : null
+        },
+        {
+          "id" : "CY",
+          "source" : "County number",
+          "target" : null
+        },
+        {
+          "id" : "CY@definition",
+          "source" : "County number",
+          "target" : null
+        },
+        {
+          "id" : "CZ",
+          "source" : "Citizenship Card",
+          "target" : null
+        },
+        {
+          "id" : "CZ@definition",
+          "source" : "A number assigned by a person's country of residence to identify a person's citizenship.",
+          "target" : null
+        },
+        {
+          "id" : "DC",
+          "source" : "Death Certificate ID",
+          "target" : null
+        },
+        {
+          "id" : "DC@definition",
+          "source" : "The identifier assigned to a death certificate, and printed on the death certificate when issued by a jurisdictional vital records office",
+          "target" : null
+        },
+        {
+          "id" : "DCFN",
+          "source" : "Death Certificate File Number",
+          "target" : null
+        },
+        {
+          "id" : "DCFN@definition",
+          "source" : "The identifier used within the jurisdictional vital records office file system as an auxiliary means of accessing the record associated with the death certificate.",
+          "target" : null
+        },
+        {
+          "id" : "DDS",
+          "source" : "Dentist license number",
+          "target" : null
+        },
+        {
+          "id" : "DDS@definition",
+          "source" : "An identifier that is unique to a dentist within the jurisdiction of the licensing board",
+          "target" : null
+        },
+        {
+          "id" : "DEA",
+          "source" : "Drug Enforcement Administration registration number",
+          "target" : null
+        },
+        {
+          "id" : "DEA@definition",
+          "source" : "An identifier for an individual or organization relative to controlled substance regulation and transactions.",
+          "target" : null
+        },
+        {
+          "id" : "DFN",
+          "source" : "Drug Furnishing or prescriptive authority Number",
+          "target" : null
+        },
+        {
+          "id" : "DFN@definition",
+          "source" : "An identifier issued to a health care provider authorizing the person to write drug orders",
+          "target" : null
+        },
+        {
+          "id" : "DI",
+          "source" : "Diner's Club card",
+          "target" : null
+        },
+        {
+          "id" : "DI@definition",
+          "source" : "Diner's Club card",
+          "target" : null
+        },
+        {
+          "id" : "DL",
+          "source" : "Driver's license number",
+          "target" : null
+        },
+        {
+          "id" : "DL@definition",
+          "source" : "Driver's license number",
+          "target" : null
+        },
+        {
+          "id" : "DN",
+          "source" : "Doctor number",
+          "target" : null
+        },
+        {
+          "id" : "DN@definition",
+          "source" : "Doctor number",
+          "target" : null
+        },
+        {
+          "id" : "DO",
+          "source" : "Osteopathic License number",
+          "target" : null
+        },
+        {
+          "id" : "DO@definition",
+          "source" : "An identifier that is unique to an osteopath within the jurisdiction of a licensing board.",
+          "target" : null
+        },
+        {
+          "id" : "DP",
+          "source" : "Diplomatic Passport",
+          "target" : null
+        },
+        {
+          "id" : "DP@definition",
+          "source" : "A number assigned to a diplomatic passport.",
+          "target" : null
+        },
+        {
+          "id" : "DPM",
+          "source" : "Podiatrist license number",
+          "target" : null
+        },
+        {
+          "id" : "DPM@definition",
+          "source" : "An identifier that is unique to a podiatrist within the jurisdiction of the licensing board.",
+          "target" : null
+        },
+        {
+          "id" : "DR",
+          "source" : "Donor Registration Number",
+          "target" : null
+        },
+        {
+          "id" : "DR@definition",
+          "source" : "Donor Registration Number",
+          "target" : null
+        },
+        {
+          "id" : "DS",
+          "source" : "Discover Card",
+          "target" : null
+        },
+        {
+          "id" : "DS@definition",
+          "source" : "Discover Card",
+          "target" : null
+        },
+        {
+          "id" : "DSG",
+          "source" : "Diagnostic Study Group",
+          "target" : null
+        },
+        {
+          "id" : "DSG@definition",
+          "source" : "Unique Identifier that groups several orders that are to be performed together.",
+          "target" : null
+        },
+        {
+          "id" : "EI",
+          "source" : "Employee number",
+          "target" : null
+        },
+        {
+          "id" : "EI@definition",
+          "source" : "A number that uniquely identifies an employee to an employer.",
+          "target" : null
+        },
+        {
+          "id" : "EN",
+          "source" : "Employer number",
+          "target" : null
+        },
+        {
+          "id" : "EN@definition",
+          "source" : "Employer number",
+          "target" : null
+        },
+        {
+          "id" : "ESN",
+          "source" : "Staff Enterprise Number",
+          "target" : null
+        },
+        {
+          "id" : "ESN@definition",
+          "source" : "An identifier that is unique to a staff member within an enterprise (as identified by the Assigning Authority).",
+          "target" : null
+        },
+        {
+          "id" : "FDR",
+          "source" : "Fetal Death Report ID",
+          "target" : null
+        },
+        {
+          "id" : "FDR@definition",
+          "source" : "The identifier assigned to a fetal death report, and printed on the fetal death report when issued by a jurisdictional vital records office",
+          "target" : null
+        },
+        {
+          "id" : "FDRFN",
+          "source" : "Fetal Death Report File Number",
+          "target" : null
+        },
+        {
+          "id" : "FDRFN@definition",
+          "source" : "The identifier used within the jurisdictional vital records office file system as an auxiliary means of accessing the record associated with the fetal death report certificate.",
+          "target" : null
+        },
+        {
+          "id" : "FGN",
+          "source" : "Filler Group Number",
+          "target" : null
+        },
+        {
+          "id" : "FGN@definition",
+          "source" : "Unique identifier assigned to a group of orders by the filler application.",
+          "target" : null
+        },
+        {
+          "id" : "FI",
+          "source" : "Facility ID",
+          "target" : null
+        },
+        {
+          "id" : "FI@definition",
+          "source" : "Facility ID",
+          "target" : null
+        },
+        {
+          "id" : "FILL",
+          "source" : "Filler Identifier",
+          "target" : null
+        },
+        {
+          "id" : "FILL@definition",
+          "source" : "An identifier for a request where the identifier is issued by the person, or service, that produces the observations or fulfills the request.",
+          "target" : null
+        },
+        {
+          "id" : "GI",
+          "source" : "Guarantor internal identifier",
+          "target" : null
+        },
+        {
+          "id" : "GI@definition",
+          "source" : "Guarantor internal identifier",
+          "target" : null
+        },
+        {
+          "id" : "GIN",
+          "source" : "Animal Group Identifier (US Official)",
+          "target" : null
+        },
+        {
+          "id" : "GIN@definition",
+          "source" : "Identifier that can be used to unambiguously describe a specific group of animals.",
+          "target" : null
+        },
+        {
+          "id" : "GL",
+          "source" : "General ledger number",
+          "target" : null
+        },
+        {
+          "id" : "GL@definition",
+          "source" : "General ledger number",
+          "target" : null
+        },
+        {
+          "id" : "GN",
+          "source" : "Guarantor external  identifier",
+          "target" : null
+        },
+        {
+          "id" : "GN@definition",
+          "source" : "Guarantor external  identifier",
+          "target" : null
+        },
+        {
+          "id" : "HC",
+          "source" : "Health Card Number",
+          "target" : null
+        },
+        {
+          "id" : "HC@definition",
+          "source" : "Health Card Number",
+          "target" : null
+        },
+        {
+          "id" : "IND",
+          "source" : "Indigenous/Aboriginal",
+          "target" : null
+        },
+        {
+          "id" : "IND@definition",
+          "source" : "A number assigned to a member of an indigenous or aboriginal group outside of Canada.",
+          "target" : null
+        },
+        {
+          "id" : "IRISTEM",
+          "source" : "An IRI stem",
+          "target" : null
+        },
+        {
+          "id" : "IRISTEM@definition",
+          "source" : "An IRI string that can be prepended to the code to obtain a concept IRI for RDF applications. This should be a valid, absolute IRI as defined in RFC 3987. See https://hl7.org/fhir/rdf.html#iri-stem for details on how this value may be used.",
+          "target" : null
+        },
+        {
+          "id" : "JHN",
+          "source" : "Jurisdictional health number",
+          "target" : null
+        },
+        {
+          "id" : "JHN@definition",
+          "source" : "Jurisdictional health number",
+          "target" : null
+        },
+        {
+          "id" : "LACSN",
+          "source" : "Laboratory Accession ID",
+          "target" : null
+        },
+        {
+          "id" : "LACSN@definition",
+          "source" : "A laboratory accession id is used in the laboratory domain.",
+          "target" : null
+        },
+        {
+          "id" : "LANR",
+          "source" : "Lifelong physician number",
+          "target" : null
+        },
+        {
+          "id" : "LANR@definition",
+          "source" : "Lifelong physician number",
+          "target" : null
+        },
+        {
+          "id" : "LI",
+          "source" : "Labor and industries number",
+          "target" : null
+        },
+        {
+          "id" : "LI@definition",
+          "source" : "Labor and industries number",
+          "target" : null
+        },
+        {
+          "id" : "L&I",
+          "source" : "Labor and industries number",
+          "target" : null
+        },
+        {
+          "id" : "L&I@definition",
+          "source" : "Labor and industries number.  Note that this was introduced erroneously (with an ampersand in the code value) many years ago.",
+          "target" : null
+        },
+        {
+          "id" : "LN",
+          "source" : "License number",
+          "target" : null
+        },
+        {
+          "id" : "LN@definition",
+          "source" : "License number",
+          "target" : null
+        },
+        {
+          "id" : "LR",
+          "source" : "Local Registry ID",
+          "target" : null
+        },
+        {
+          "id" : "LR@definition",
+          "source" : "Local Registry ID",
+          "target" : null
+        },
+        {
+          "id" : "MA",
+          "source" : "Patient Medicaid number",
+          "target" : null
+        },
+        {
+          "id" : "MA@definition",
+          "source" : "Patient Medicaid number",
+          "target" : null
+        },
+        {
+          "id" : "MB",
+          "source" : "Member Number",
+          "target" : null
+        },
+        {
+          "id" : "MB@definition",
+          "source" : "An identifier for the insured of an insurance policy (this insured always has a subscriber), usually assigned by the insurance carrier.",
+          "target" : null
+        },
+        {
+          "id" : "MC",
+          "source" : "Patient's Medicare number",
+          "target" : null
+        },
+        {
+          "id" : "MC@definition",
+          "source" : "Patient's Medicare number",
+          "target" : null
+        },
+        {
+          "id" : "MCD",
+          "source" : "Practitioner Medicaid number",
+          "target" : null
+        },
+        {
+          "id" : "MCD@definition",
+          "source" : "Practitioner Medicaid number",
+          "target" : null
+        },
+        {
+          "id" : "MCN",
+          "source" : "Microchip Number",
+          "target" : null
+        },
+        {
+          "id" : "MCN@definition",
+          "source" : "Microchip Number",
+          "target" : null
+        },
+        {
+          "id" : "MCR",
+          "source" : "Practitioner Medicare number",
+          "target" : null
+        },
+        {
+          "id" : "MCR@definition",
+          "source" : "Practitioner Medicare number",
+          "target" : null
+        },
+        {
+          "id" : "MCT",
+          "source" : "Marriage Certificate",
+          "target" : null
+        },
+        {
+          "id" : "MCT@definition",
+          "source" : "A number associated with a document identifying the event of a person's marriage.",
+          "target" : null
+        },
+        {
+          "id" : "MD",
+          "source" : "Medical License number",
+          "target" : null
+        },
+        {
+          "id" : "MD@definition",
+          "source" : "An identifier that is unique to a medical doctor within the jurisdiction of a licensing board.",
+          "target" : null
+        },
+        {
+          "id" : "MI",
+          "source" : "Military ID number",
+          "target" : null
+        },
+        {
+          "id" : "MI@definition",
+          "source" : "A number assigned to an individual who has had military duty, but is not currently on active duty. The number is assigned by the DOD or Veterans' Affairs (VA).",
+          "target" : null
+        },
+        {
+          "id" : "MR",
+          "source" : "Medical record number",
+          "target" : null
+        },
+        {
+          "id" : "MR@definition",
+          "source" : "An identifier that is unique to a patient within a set of medical records, not necessarily unique within an application.",
+          "target" : null
+        },
+        {
+          "id" : "MRT",
+          "source" : "Temporary Medical Record Number",
+          "target" : null
+        },
+        {
+          "id" : "MRT@definition",
+          "source" : "Temporary version of a Medical Record Number",
+          "target" : null
+        },
+        {
+          "id" : "MS",
+          "source" : "MasterCard",
+          "target" : null
+        },
+        {
+          "id" : "MS@definition",
+          "source" : "MasterCard",
+          "target" : null
+        },
+        {
+          "id" : "NBSNR",
+          "source" : "Secondary physician office number",
+          "target" : null
+        },
+        {
+          "id" : "NBSNR@definition",
+          "source" : "Secondary physician office number",
+          "target" : null
+        },
+        {
+          "id" : "NCT",
+          "source" : "Naturalization Certificate",
+          "target" : null
+        },
+        {
+          "id" : "NCT@definition",
+          "source" : "A number associated with a document identifying a person's retention of citizenship in a particular country.",
+          "target" : null
+        },
+        {
+          "id" : "NE",
+          "source" : "National employer identifier",
+          "target" : null
+        },
+        {
+          "id" : "NE@definition",
+          "source" : "National employer identifier",
+          "target" : null
+        },
+        {
+          "id" : "NH",
+          "source" : "National Health Plan Identifier",
+          "target" : null
+        },
+        {
+          "id" : "NH@definition",
+          "source" : "National Health Plan Identifier",
+          "target" : null
+        },
+        {
+          "id" : "NI",
+          "source" : "National unique individual identifier",
+          "target" : null
+        },
+        {
+          "id" : "NI@definition",
+          "source" : "National unique individual identifier",
+          "target" : null
+        },
+        {
+          "id" : "NII",
+          "source" : "National Insurance Organization Identifier",
+          "target" : null
+        },
+        {
+          "id" : "NII@definition",
+          "source" : "National Insurance Organization Identifier",
+          "target" : null
+        },
+        {
+          "id" : "NIIP",
+          "source" : "National Insurance Payor Identifier (Payor)",
+          "target" : null
+        },
+        {
+          "id" : "NIIP@definition",
+          "source" : "National Insurance Payor Identifier (Payor)",
+          "target" : null
+        },
+        {
+          "id" : "NNxxx",
+          "source" : "National Person Identifier where the xxx is the ISO table 3166 3-character (alphabetic) country code",
+          "target" : null
+        },
+        {
+          "id" : "NNxxx@definition",
+          "source" : "National Person Identifier where the xxx is the ISO table 3166 3-character (alphabetic) country code",
+          "target" : null
+        },
+        {
+          "id" : "NP",
+          "source" : "Nurse practitioner number",
+          "target" : null
+        },
+        {
+          "id" : "NP@definition",
+          "source" : "An identifier that is unique to a nurse practitioner within the jurisdiction of a certifying board.",
+          "target" : null
+        },
+        {
+          "id" : "NPI",
+          "source" : "National provider identifier",
+          "target" : null
+        },
+        {
+          "id" : "NPI@definition",
+          "source" : "National provider identifier",
+          "target" : null
+        },
+        {
+          "id" : "OBI",
+          "source" : "Observation Instance Identifier",
+          "target" : null
+        },
+        {
+          "id" : "OBI@definition",
+          "source" : "Unique and persistent identifier for an observation instance",
+          "target" : null
+        },
+        {
+          "id" : "OD",
+          "source" : "Optometrist license number",
+          "target" : null
+        },
+        {
+          "id" : "OD@definition",
+          "source" : "A number that is unique to an individual optometrist within the jurisdiction of the licensing board.",
+          "target" : null
+        },
+        {
+          "id" : "PA",
+          "source" : "Physician Assistant number",
+          "target" : null
+        },
+        {
+          "id" : "PA@definition",
+          "source" : "An identifier that is unique to a physician assistant within the jurisdiction of a licensing board",
+          "target" : null
+        },
+        {
+          "id" : "PC",
+          "source" : "Parole Card",
+          "target" : null
+        },
+        {
+          "id" : "PC@definition",
+          "source" : "A number identifying a person on parole.",
+          "target" : null
+        },
+        {
+          "id" : "PCN",
+          "source" : "Penitentiary/correctional institution Number",
+          "target" : null
+        },
+        {
+          "id" : "PCN@definition",
+          "source" : "A number assigned to individual who is incarcerated.",
+          "target" : null
+        },
+        {
+          "id" : "PE",
+          "source" : "Living Subject Enterprise Number",
+          "target" : null
+        },
+        {
+          "id" : "PE@definition",
+          "source" : "An identifier that is unique to a living subject within an enterprise (as identified by the Assigning Authority).",
+          "target" : null
+        },
+        {
+          "id" : "PEN",
+          "source" : "Pension Number",
+          "target" : null
+        },
+        {
+          "id" : "PEN@definition",
+          "source" : "Pension Number",
+          "target" : null
+        },
+        {
+          "id" : "PGN",
+          "source" : "Placer Group Number",
+          "target" : null
+        },
+        {
+          "id" : "PGN@definition",
+          "source" : "Unique identifier assigned to a group of orders by the placer application.",
+          "target" : null
+        },
+        {
+          "id" : "PHC",
+          "source" : "Public Health Case Identifier",
+          "target" : null
+        },
+        {
+          "id" : "PHC@definition",
+          "source" : "Identifier assigned to a person during a case investigation as part of a public health event",
+          "target" : null
+        },
+        {
+          "id" : "PHE",
+          "source" : "Public Health Event Identifier",
+          "target" : null
+        },
+        {
+          "id" : "PHE@definition",
+          "source" : "Identifier assigned to an event of interest to public health",
+          "target" : null
+        },
+        {
+          "id" : "PHO",
+          "source" : "Public Health Official ID",
+          "target" : null
+        },
+        {
+          "id" : "PHO@definition",
+          "source" : "An identifier for a person working at a public health agency (PHA),  assigned or issued by the agency",
+          "target" : null
+        },
+        {
+          "id" : "PI",
+          "source" : "Patient internal identifier",
+          "target" : null
+        },
+        {
+          "id" : "PI@definition",
+          "source" : "A number that is unique to a patient within an Assigning Authority.",
+          "target" : null
+        },
+        {
+          "id" : "PIN",
+          "source" : "Premises Identifier Number (US Official)",
+          "target" : null
+        },
+        {
+          "id" : "PIN@definition",
+          "source" : "Identifier that uniquely identifies a geographic location in the US.",
+          "target" : null
+        },
+        {
+          "id" : "PLAC",
+          "source" : "Placer Identifier",
+          "target" : null
+        },
+        {
+          "id" : "PLAC@definition",
+          "source" : "An identifier for a request where the identifier is issued by the person or service making the request.",
+          "target" : null
+        },
+        {
+          "id" : "PN",
+          "source" : "Person number",
+          "target" : null
+        },
+        {
+          "id" : "PN@definition",
+          "source" : "A number that is unique to a living subject within an Assigning Authority.",
+          "target" : null
+        },
+        {
+          "id" : "PNT",
+          "source" : "Temporary Living Subject Number",
+          "target" : null
+        },
+        {
+          "id" : "PNT@definition",
+          "source" : "Temporary version of a Living Subject Number.",
+          "target" : null
+        },
+        {
+          "id" : "PPIN",
+          "source" : "Medicare/CMS Performing Provider Identification Number",
+          "target" : null
+        },
+        {
+          "id" : "PPIN@definition",
+          "source" : "Medicare/CMS Performing Provider Identification Number",
+          "target" : null
+        },
+        {
+          "id" : "PPN",
+          "source" : "Passport number",
+          "target" : null
+        },
+        {
+          "id" : "PPN@definition",
+          "source" : "A unique number assigned to the document affirming that a person is a citizen of the country.",
+          "target" : null
+        },
+        {
+          "id" : "PRC",
+          "source" : "Permanent Resident Card Number",
+          "target" : null
+        },
+        {
+          "id" : "PRC@definition",
+          "source" : "Permanent Resident Card Number",
+          "target" : null
+        },
+        {
+          "id" : "PRN",
+          "source" : "Provider number",
+          "target" : null
+        },
+        {
+          "id" : "PRN@definition",
+          "source" : "A number that is unique to an individual provider, a provider group or an organization within an Assigning Authority.",
+          "target" : null
+        },
+        {
+          "id" : "PT",
+          "source" : "Patient external identifier",
+          "target" : null
+        },
+        {
+          "id" : "PT@definition",
+          "source" : "Patient external identifier",
+          "target" : null
+        },
+        {
+          "id" : "QA",
+          "source" : "QA number",
+          "target" : null
+        },
+        {
+          "id" : "QA@definition",
+          "source" : "QA number",
+          "target" : null
+        },
+        {
+          "id" : "RI",
+          "source" : "Resource identifier",
+          "target" : null
+        },
+        {
+          "id" : "RI@definition",
+          "source" : "A generalized resource identifier.",
+          "target" : null
+        },
+        {
+          "id" : "RN",
+          "source" : "Registered Nurse Number",
+          "target" : null
+        },
+        {
+          "id" : "RN@definition",
+          "source" : "An identifier that is unique to a registered nurse within the jurisdiction of the licensing board.",
+          "target" : null
+        },
+        {
+          "id" : "RPH",
+          "source" : "Pharmacist license number",
+          "target" : null
+        },
+        {
+          "id" : "RPH@definition",
+          "source" : "An identifier that is unique to a pharmacist within the jurisdiction of the licensing board.",
+          "target" : null
+        },
+        {
+          "id" : "RR",
+          "source" : "Railroad Retirement number",
+          "target" : null
+        },
+        {
+          "id" : "RR@definition",
+          "source" : "An identifier for an individual enrolled with the Railroad Retirement Administration.  Analogous to, but distinct from, a Social Security Number",
+          "target" : null
+        },
+        {
+          "id" : "RRI",
+          "source" : "Regional registry ID",
+          "target" : null
+        },
+        {
+          "id" : "RRI@definition",
+          "source" : "Regional registry ID",
+          "target" : null
+        },
+        {
+          "id" : "RRP",
+          "source" : "Railroad Retirement Provider",
+          "target" : null
+        },
+        {
+          "id" : "RRP@definition",
+          "source" : "Railroad Retirement Provider",
+          "target" : null
+        },
+        {
+          "id" : "SAMN",
+          "source" : "SAMN# accession Number",
+          "target" : null
+        },
+        {
+          "id" : "SAMN@definition",
+          "source" : "The accession number for the BioSample data repository at the National Center for Biotechnology Information (NCBI)",
+          "target" : null
+        },
+        {
+          "id" : "SB",
+          "source" : "Social Beneficiary Identifier",
+          "target" : null
+        },
+        {
+          "id" : "SB@definition",
+          "source" : "An identifier issued by a governmental organization to a person to identify the person should they apply for or receive social services and/or benefits",
+          "target" : null
+        },
+        {
+          "id" : "SID",
+          "source" : "Specimen ID",
+          "target" : null
+        },
+        {
+          "id" : "SID@definition",
+          "source" : "Identifier for a specimen.",
+          "target" : null
+        },
+        {
+          "id" : "SL",
+          "source" : "State license",
+          "target" : null
+        },
+        {
+          "id" : "SL@definition",
+          "source" : "State license",
+          "target" : null
+        },
+        {
+          "id" : "SN",
+          "source" : "Subscriber Number",
+          "target" : null
+        },
+        {
+          "id" : "SN@definition",
+          "source" : "An identifier for a subscriber of an insurance policy which is unique for, and usually assigned by, the insurance carrier.",
+          "target" : null
+        },
+        {
+          "id" : "SNBSN",
+          "source" : "State assigned NDBS card Identifier",
+          "target" : null
+        },
+        {
+          "id" : "SNBSN@definition",
+          "source" : "The identifier on a Newborn Screening Dried Bloodspot (NDBS) card that is assigned by the state which provided the sample collection cards and to whom this information must be reported",
+          "target" : null
+        },
+        {
+          "id" : "SNO",
+          "source" : "Serial Number",
+          "target" : null
+        },
+        {
+          "id" : "SNO@definition",
+          "source" : "An identifier affixed to an item by the manufacturer when it is first made, where each item has a different identifier.",
+          "target" : null
+        },
+        {
+          "id" : "SP",
+          "source" : "Study Permit",
+          "target" : null
+        },
+        {
+          "id" : "SP@definition",
+          "source" : "A number associated with a permit identifying a person who is a resident of a jurisdiction for the purpose of education.",
+          "target" : null
+        },
+        {
+          "id" : "SR",
+          "source" : "State registry ID",
+          "target" : null
+        },
+        {
+          "id" : "SR@definition",
+          "source" : "State registry ID",
+          "target" : null
+        },
+        {
+          "id" : "SRX",
+          "source" : "SRA Accession number",
+          "target" : null
+        },
+        {
+          "id" : "SRX@definition",
+          "source" : "The accession number generated by the Sequence Read Archive (SRA) at the National Center for Biotechnology Information (NCBI) when sequence data are uploaded to NCBI.",
+          "target" : null
+        },
+        {
+          "id" : "SS",
+          "source" : "Social Security number",
+          "target" : null
+        },
+        {
+          "id" : "SS@definition",
+          "source" : "Social Security number",
+          "target" : null
+        },
+        {
+          "id" : "STN",
+          "source" : "Shipment Tracking Number",
+          "target" : null
+        },
+        {
+          "id" : "STN@definition",
+          "source" : "Identifier assigned to a package being shipped",
+          "target" : null
+        },
+        {
+          "id" : "TAX",
+          "source" : "Tax ID number",
+          "target" : null
+        },
+        {
+          "id" : "TAX@definition",
+          "source" : "Tax ID number",
+          "target" : null
+        },
+        {
+          "id" : "TN",
+          "source" : "Treaty Number/ (Canada)",
+          "target" : null
+        },
+        {
+          "id" : "TN@definition",
+          "source" : "A number assigned to a member of an indigenous group in Canada.",
+          "target" : null
+        },
+        {
+          "id" : "TPR",
+          "source" : "Temporary Permanent Resident (Canada)",
+          "target" : null
+        },
+        {
+          "id" : "TPR@definition",
+          "source" : "A number associated with a document identifying a person's temporary permanent resident status.",
+          "target" : null
+        },
+        {
+          "id" : "TRL",
+          "source" : "Training License Number",
+          "target" : null
+        },
+        {
+          "id" : "TRL@definition",
+          "source" : "The license number used during training.",
+          "target" : null
+        },
+        {
+          "id" : "U",
+          "source" : "Unspecified identifier",
+          "target" : null
+        },
+        {
+          "id" : "U@definition",
+          "source" : "Unspecified identifier",
+          "target" : null
+        },
+        {
+          "id" : "UDI",
+          "source" : "Universal Device Identifier",
+          "target" : null
+        },
+        {
+          "id" : "UDI@definition",
+          "source" : "An identifier assigned to a device using the Unique Device Identification framework as defined by IMDRF (http://imdrf.org).",
+          "target" : null
+        },
+        {
+          "id" : "UPIN",
+          "source" : "Medicare/CMS (formerly HCFA)'s Universal Physician Identification numbers",
+          "target" : null
+        },
+        {
+          "id" : "UPIN@definition",
+          "source" : "An identifier for a provider within the CMS/Medicare program.  A globally unique identifier for the provider in the Medicare program.",
+          "target" : null
+        },
+        {
+          "id" : "USID",
+          "source" : "Unique Specimen ID",
+          "target" : null
+        },
+        {
+          "id" : "USID@definition",
+          "source" : "A unique identifier for a specimen.",
+          "target" : null
+        },
+        {
+          "id" : "VN",
+          "source" : "Visit number",
+          "target" : null
+        },
+        {
+          "id" : "VN@definition",
+          "source" : "Visit number",
+          "target" : null
+        },
+        {
+          "id" : "VP",
+          "source" : "Visitor Permit",
+          "target" : null
+        },
+        {
+          "id" : "VP@definition",
+          "source" : "A number associated with a document identifying a person as a visitor of a jurisdiction or country.",
+          "target" : null
+        },
+        {
+          "id" : "VS",
+          "source" : "VISA",
+          "target" : null
+        },
+        {
+          "id" : "VS@definition",
+          "source" : "VISA",
+          "target" : null
+        },
+        {
+          "id" : "WC",
+          "source" : "WIC identifier",
+          "target" : null
+        },
+        {
+          "id" : "WC@definition",
+          "source" : "WIC identifier",
+          "target" : null
+        },
+        {
+          "id" : "WCN",
+          "source" : "Workers' Comp Number",
+          "target" : null
+        },
+        {
+          "id" : "WCN@definition",
+          "source" : "Workers' Comp Number",
+          "target" : null
+        },
+        {
+          "id" : "WP",
+          "source" : "Work Permit",
+          "target" : null
+        },
+        {
+          "id" : "WP@definition",
+          "source" : "A number associated with a permit for a person who is granted permission to work in a country for a specified time period.",
+          "target" : null
+        },
+        {
+          "id" : "XV",
+          "source" : "Health Plan Identifier",
+          "target" : null
+        },
+        {
+          "id" : "XV@definition",
+          "source" : "National unique health plan identifier required by the US Department of Health and Human Services, Centers for Medicare and Medicaid Services (CMS) in the US Realm.",
+          "target" : null
+        },
+        {
+          "id" : "XX",
+          "source" : "Organization identifier",
+          "target" : null
+        },
+        {
+          "id" : "XX@definition",
+          "source" : "Organization identifier",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}

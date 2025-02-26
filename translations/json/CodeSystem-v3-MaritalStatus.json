@@ -1,0 +1,116 @@
+{
+  "id" : "CodeSystem-v3-MaritalStatus",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "cs",
+      "entries" : [
+        {
+          "id" : "A",
+          "source" : "Annulled",
+          "target" : null
+        },
+        {
+          "id" : "A@definition",
+          "source" : "Marriage contract has been declared null and to not have existed",
+          "target" : null
+        },
+        {
+          "id" : "D",
+          "source" : "Divorced",
+          "target" : null
+        },
+        {
+          "id" : "D@definition",
+          "source" : "Marriage contract has been declared dissolved and inactive",
+          "target" : null
+        },
+        {
+          "id" : "I",
+          "source" : "Interlocutory",
+          "target" : null
+        },
+        {
+          "id" : "I@definition",
+          "source" : "Subject to an Interlocutory Decree.",
+          "target" : null
+        },
+        {
+          "id" : "L",
+          "source" : "Legally Separated",
+          "target" : null
+        },
+        {
+          "id" : "M",
+          "source" : "Married",
+          "target" : null
+        },
+        {
+          "id" : "M@definition",
+          "source" : "A current marriage contract is active",
+          "target" : null
+        },
+        {
+          "id" : "C",
+          "source" : "Common Law",
+          "target" : null
+        },
+        {
+          "id" : "C@definition",
+          "source" : "a marriage recognized in some jurisdictions and based on the parties' agreement to consider themselves married and can also be based on documentation of cohabitation.\r\n\r\nThis definition was based on https://www.merriam-webster.com/dictionary/common-law%20marriage.",
+          "target" : null
+        },
+        {
+          "id" : "P",
+          "source" : "Polygamous",
+          "target" : null
+        },
+        {
+          "id" : "P@definition",
+          "source" : "More than 1 current spouse",
+          "target" : null
+        },
+        {
+          "id" : "T",
+          "source" : "Domestic partner",
+          "target" : null
+        },
+        {
+          "id" : "T@definition",
+          "source" : "Person declares that a domestic partner relationship exists.",
+          "target" : null
+        },
+        {
+          "id" : "U",
+          "source" : "unmarried",
+          "target" : null
+        },
+        {
+          "id" : "U@definition",
+          "source" : "Currently not in a marriage contract.",
+          "target" : null
+        },
+        {
+          "id" : "S",
+          "source" : "Never Married",
+          "target" : null
+        },
+        {
+          "id" : "S@definition",
+          "source" : "No marriage contract has ever been entered",
+          "target" : null
+        },
+        {
+          "id" : "W",
+          "source" : "Widowed",
+          "target" : null
+        },
+        {
+          "id" : "W@definition",
+          "source" : "The spouse has died",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}

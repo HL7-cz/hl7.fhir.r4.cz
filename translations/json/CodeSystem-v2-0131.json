@@ -1,0 +1,131 @@
+{
+  "id" : "CodeSystem-v2-0131",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "cs",
+      "entries" : [
+        {
+          "id" : "BP",
+          "source" : "Billing contact person",
+          "target" : null
+        },
+        {
+          "id" : "BP@definition",
+          "source" : "Billing contact person",
+          "target" : null
+        },
+        {
+          "id" : "CP",
+          "source" : "Contact person",
+          "target" : null
+        },
+        {
+          "id" : "CP@definition",
+          "source" : "Contact person",
+          "target" : null
+        },
+        {
+          "id" : "EP",
+          "source" : "Emergency contact person",
+          "target" : null
+        },
+        {
+          "id" : "EP@definition",
+          "source" : "Emergency contact person",
+          "target" : null
+        },
+        {
+          "id" : "PR",
+          "source" : "Person preparing referral",
+          "target" : null
+        },
+        {
+          "id" : "PR@definition",
+          "source" : "Person preparing referral",
+          "target" : null
+        },
+        {
+          "id" : "E",
+          "source" : "Employer",
+          "target" : null
+        },
+        {
+          "id" : "E@definition",
+          "source" : "Employer",
+          "target" : null
+        },
+        {
+          "id" : "C",
+          "source" : "Emergency Contact",
+          "target" : null
+        },
+        {
+          "id" : "C@definition",
+          "source" : "Emergency Contact",
+          "target" : null
+        },
+        {
+          "id" : "F",
+          "source" : "Federal Agency",
+          "target" : null
+        },
+        {
+          "id" : "F@definition",
+          "source" : "Federal Agency",
+          "target" : null
+        },
+        {
+          "id" : "I",
+          "source" : "Insurance Company",
+          "target" : null
+        },
+        {
+          "id" : "I@definition",
+          "source" : "Insurance Company",
+          "target" : null
+        },
+        {
+          "id" : "N",
+          "source" : "Next-of-Kin",
+          "target" : null
+        },
+        {
+          "id" : "N@definition",
+          "source" : "Next-of-Kin",
+          "target" : null
+        },
+        {
+          "id" : "S",
+          "source" : "State Agency",
+          "target" : null
+        },
+        {
+          "id" : "S@definition",
+          "source" : "State Agency",
+          "target" : null
+        },
+        {
+          "id" : "O",
+          "source" : "Other",
+          "target" : null
+        },
+        {
+          "id" : "O@definition",
+          "source" : "Other",
+          "target" : null
+        },
+        {
+          "id" : "U",
+          "source" : "Unknown",
+          "target" : null
+        },
+        {
+          "id" : "U@definition",
+          "source" : "Unknown",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}

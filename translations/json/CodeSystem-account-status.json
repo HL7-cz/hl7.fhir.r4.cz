@@ -1,0 +1,61 @@
+{
+  "id" : "CodeSystem-account-status",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "cs",
+      "entries" : [
+        {
+          "id" : "active",
+          "source" : "Active",
+          "target" : null
+        },
+        {
+          "id" : "active@definition",
+          "source" : "This account is active and may be used.",
+          "target" : null
+        },
+        {
+          "id" : "inactive",
+          "source" : "Inactive",
+          "target" : null
+        },
+        {
+          "id" : "inactive@definition",
+          "source" : "This account is inactive and should not be used to track financial information.",
+          "target" : null
+        },
+        {
+          "id" : "entered-in-error",
+          "source" : "Entered in error",
+          "target" : null
+        },
+        {
+          "id" : "entered-in-error@definition",
+          "source" : "This instance should not have been part of this patient's medical record.",
+          "target" : null
+        },
+        {
+          "id" : "on-hold",
+          "source" : "On Hold",
+          "target" : null
+        },
+        {
+          "id" : "on-hold@definition",
+          "source" : "This account is on hold.",
+          "target" : null
+        },
+        {
+          "id" : "unknown",
+          "source" : "Unknown",
+          "target" : null
+        },
+        {
+          "id" : "unknown@definition",
+          "source" : "The account status is unknown.",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}

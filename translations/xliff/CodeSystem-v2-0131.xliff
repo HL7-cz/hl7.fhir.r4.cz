@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="cs" id="CodeSystem-v2-0131" original="Resource CodeSystem-v2-0131" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-v2-0131" resname="BP">
+        <source>Billing contact person</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="BP@definition">
+        <source>Billing contact person</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="CP">
+        <source>Contact person</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="CP@definition">
+        <source>Contact person</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="EP">
+        <source>Emergency contact person</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="EP@definition">
+        <source>Emergency contact person</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="PR">
+        <source>Person preparing referral</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="PR@definition">
+        <source>Person preparing referral</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="E">
+        <source>Employer</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="E@definition">
+        <source>Employer</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="C">
+        <source>Emergency Contact</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="C@definition">
+        <source>Emergency Contact</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="F">
+        <source>Federal Agency</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="F@definition">
+        <source>Federal Agency</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="I">
+        <source>Insurance Company</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="I@definition">
+        <source>Insurance Company</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="N">
+        <source>Next-of-Kin</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="N@definition">
+        <source>Next-of-Kin</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="S">
+        <source>State Agency</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="S@definition">
+        <source>State Agency</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="O">
+        <source>Other</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="O@definition">
+        <source>Other</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="U">
+        <source>Unknown</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0131" resname="U@definition">
+        <source>Unknown</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

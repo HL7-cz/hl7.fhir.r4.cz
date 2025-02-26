@@ -1,0 +1,71 @@
+{
+  "id" : "CodeSystem-contactentity-type",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "cs",
+      "entries" : [
+        {
+          "id" : "BILL",
+          "source" : "Billing",
+          "target" : null
+        },
+        {
+          "id" : "BILL@definition",
+          "source" : "Contact details for information regarding to billing/general finance enquiries.",
+          "target" : null
+        },
+        {
+          "id" : "ADMIN",
+          "source" : "Administrative",
+          "target" : null
+        },
+        {
+          "id" : "ADMIN@definition",
+          "source" : "Contact details for administrative enquiries.",
+          "target" : null
+        },
+        {
+          "id" : "HR",
+          "source" : "Human Resource",
+          "target" : null
+        },
+        {
+          "id" : "HR@definition",
+          "source" : "Contact details for issues related to Human Resources, such as staff matters, OH&S etc.",
+          "target" : null
+        },
+        {
+          "id" : "PAYOR",
+          "source" : "Payor",
+          "target" : null
+        },
+        {
+          "id" : "PAYOR@definition",
+          "source" : "Contact details for dealing with issues related to insurance claims/adjudication/payment.",
+          "target" : null
+        },
+        {
+          "id" : "PATINF",
+          "source" : "Patient",
+          "target" : null
+        },
+        {
+          "id" : "PATINF@definition",
+          "source" : "Generic information contact for patients.",
+          "target" : null
+        },
+        {
+          "id" : "PRESS",
+          "source" : "Press",
+          "target" : null
+        },
+        {
+          "id" : "PRESS@definition",
+          "source" : "Dedicated contact point for matters relating to press enquiries.",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}

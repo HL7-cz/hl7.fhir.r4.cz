@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="cs" id="CodeSystem-identifier-use" original="Resource CodeSystem-identifier-use" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-identifier-use" resname="usual">
+        <source>Usual</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-identifier-use" resname="usual@definition">
+        <source>The identifier recommended for display and use in real-world interactions.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-identifier-use" resname="official">
+        <source>Official</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-identifier-use" resname="official@definition">
+        <source>The identifier considered to be most trusted for the identification of this item. Sometimes also known as &quot;primary&quot; and &quot;main&quot;. The determination of &quot;official&quot; is subjective and implementation guides often provide additional guidelines for use.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-identifier-use" resname="temp">
+        <source>Temp</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-identifier-use" resname="temp@definition">
+        <source>A temporary identifier.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-identifier-use" resname="secondary">
+        <source>Secondary</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-identifier-use" resname="secondary@definition">
+        <source>An identifier that was assigned in secondary use - it serves to identify the object in a relative context, but cannot be consistently assigned to the same object again in a different context.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-identifier-use" resname="old">
+        <source>Old</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-identifier-use" resname="old@definition">
+        <source>The identifier id no longer considered valid, but may be relevant for search purposes.  E.g. Changes to identifier schemes, account merges, etc.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,81 @@
+{
+  "id" : "CodeSystem-days-of-week",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "cs",
+      "entries" : [
+        {
+          "id" : "mon",
+          "source" : "Monday",
+          "target" : null
+        },
+        {
+          "id" : "mon@definition",
+          "source" : "Monday.",
+          "target" : null
+        },
+        {
+          "id" : "tue",
+          "source" : "Tuesday",
+          "target" : null
+        },
+        {
+          "id" : "tue@definition",
+          "source" : "Tuesday.",
+          "target" : null
+        },
+        {
+          "id" : "wed",
+          "source" : "Wednesday",
+          "target" : null
+        },
+        {
+          "id" : "wed@definition",
+          "source" : "Wednesday.",
+          "target" : null
+        },
+        {
+          "id" : "thu",
+          "source" : "Thursday",
+          "target" : null
+        },
+        {
+          "id" : "thu@definition",
+          "source" : "Thursday.",
+          "target" : null
+        },
+        {
+          "id" : "fri",
+          "source" : "Friday",
+          "target" : null
+        },
+        {
+          "id" : "fri@definition",
+          "source" : "Friday.",
+          "target" : null
+        },
+        {
+          "id" : "sat",
+          "source" : "Saturday",
+          "target" : null
+        },
+        {
+          "id" : "sat@definition",
+          "source" : "Saturday.",
+          "target" : null
+        },
+        {
+          "id" : "sun",
+          "source" : "Sunday",
+          "target" : null
+        },
+        {
+          "id" : "sun@definition",
+          "source" : "Sunday.",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}

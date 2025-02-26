@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="cs" id="CodeSystem-contact-point-use" original="Resource CodeSystem-contact-point-use" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-contact-point-use" resname="home">
+        <source>Home</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-use" resname="home@definition">
+        <source>A communication contact point at a home; attempted contacts for business purposes might intrude privacy and chances are one will contact family or other household members instead of the person one wishes to call. Typically used with urgent cases, or if no other contacts are available.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-use" resname="work">
+        <source>Work</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-use" resname="work@definition">
+        <source>An office contact point. First choice for business related contacts during business hours.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-use" resname="temp">
+        <source>Temp</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-use" resname="temp@definition">
+        <source>A temporary contact point. The period can provide more detailed information.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-use" resname="old">
+        <source>Old</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-use" resname="old@definition">
+        <source>This contact point is no longer in use (or was never correct, but retained for records).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-use" resname="mobile">
+        <source>Mobile</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-use" resname="mobile@definition">
+        <source>A telecommunication device that moves and stays with its owner. May have characteristics of all other use codes, suitable for urgent matters, not the first choice for routine business.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

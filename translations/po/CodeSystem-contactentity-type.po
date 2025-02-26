@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Language: cs\n"
+"X-Generator: Poedit 3.5\n"
+
+# en -> cs
+
+msgctxt "BILL"
+msgid "Billing"
+msgstr ""
+
+msgctxt "BILL@definition"
+msgid "Contact details for information regarding to billing/general finance enquiries."
+msgstr ""
+
+msgctxt "ADMIN"
+msgid "Administrative"
+msgstr ""
+
+msgctxt "ADMIN@definition"
+msgid "Contact details for administrative enquiries."
+msgstr ""
+
+msgctxt "HR"
+msgid "Human Resource"
+msgstr ""
+
+msgctxt "HR@definition"
+msgid "Contact details for issues related to Human Resources, such as staff matters, OH&S etc."
+msgstr ""
+
+msgctxt "PAYOR"
+msgid "Payor"
+msgstr ""
+
+msgctxt "PAYOR@definition"
+msgid "Contact details for dealing with issues related to insurance claims/adjudication/payment."
+msgstr ""
+
+msgctxt "PATINF"
+msgid "Patient"
+msgstr ""
+
+msgctxt "PATINF@definition"
+msgid "Generic information contact for patients."
+msgstr ""
+
+msgctxt "PRESS"
+msgid "Press"
+msgstr ""
+
+msgctxt "PRESS@definition"
+msgid "Dedicated contact point for matters relating to press enquiries."
+msgstr ""
+

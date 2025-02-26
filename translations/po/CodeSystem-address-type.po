@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Language: cs\n"
+"X-Generator: Poedit 3.5\n"
+
+# en -> cs
+
+msgctxt "postal"
+msgid "Postal"
+msgstr ""
+
+msgctxt "postal@definition"
+msgid "Mailing addresses - PO Boxes and care-of addresses."
+msgstr ""
+
+msgctxt "physical"
+msgid "Physical"
+msgstr ""
+
+msgctxt "physical@definition"
+msgid "A physical address that can be visited."
+msgstr ""
+
+msgctxt "both"
+msgid "Postal & Physical"
+msgstr ""
+
+msgctxt "both@definition"
+msgid "An address that is both physical and postal."
+msgstr ""
+

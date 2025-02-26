@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Language: cs\n"
+"X-Generator: Poedit 3.5\n"
+
+# en -> cs
+
+msgctxt "A"
+msgid "Annulled"
+msgstr ""
+
+msgctxt "A@definition"
+msgid "Marriage contract has been declared null and to not have existed"
+msgstr ""
+
+msgctxt "D"
+msgid "Divorced"
+msgstr ""
+
+msgctxt "D@definition"
+msgid "Marriage contract has been declared dissolved and inactive"
+msgstr ""
+
+msgctxt "I"
+msgid "Interlocutory"
+msgstr ""
+
+msgctxt "I@definition"
+msgid "Subject to an Interlocutory Decree."
+msgstr ""
+
+msgctxt "L"
+msgid "Legally Separated"
+msgstr ""
+
+msgctxt "M"
+msgid "Married"
+msgstr ""
+
+msgctxt "M@definition"
+msgid "A current marriage contract is active"
+msgstr ""
+
+msgctxt "C"
+msgid "Common Law"
+msgstr ""
+
+msgctxt "C@definition"
+msgid "a marriage recognized in some jurisdictions and based on the parties' agreement to consider themselves married and can also be based on documentation of cohabitation. This definition was based on https://www.merriam-webster.com/dictionary/common-law%20marriage."
+msgstr ""
+
+msgctxt "P"
+msgid "Polygamous"
+msgstr ""
+
+msgctxt "P@definition"
+msgid "More than 1 current spouse"
+msgstr ""
+
+msgctxt "T"
+msgid "Domestic partner"
+msgstr ""
+
+msgctxt "T@definition"
+msgid "Person declares that a domestic partner relationship exists."
+msgstr ""
+
+msgctxt "U"
+msgid "unmarried"
+msgstr ""
+
+msgctxt "U@definition"
+msgid "Currently not in a marriage contract."
+msgstr ""
+
+msgctxt "S"
+msgid "Never Married"
+msgstr ""
+
+msgctxt "S@definition"
+msgid "No marriage contract has ever been entered"
+msgstr ""
+
+msgctxt "W"
+msgid "Widowed"
+msgstr ""
+
+msgctxt "W@definition"
+msgid "The spouse has died"
+msgstr ""
+

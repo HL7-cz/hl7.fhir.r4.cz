@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="cs" id="CodeSystem-address-type" original="Resource CodeSystem-address-type" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-address-type" resname="postal">
+        <source>Postal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-address-type" resname="postal@definition">
+        <source>Mailing addresses - PO Boxes and care-of addresses.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-address-type" resname="physical">
+        <source>Physical</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-address-type" resname="physical@definition">
+        <source>A physical address that can be visited.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-address-type" resname="both">
+        <source>Postal &amp; Physical</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-address-type" resname="both@definition">
+        <source>An address that is both physical and postal.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

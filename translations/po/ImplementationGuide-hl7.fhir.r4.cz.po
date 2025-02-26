@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Language: cs\n"
+"X-Generator: Poedit 3.5\n"
+
+# en -> cs
+
+#. A natural language name identifying the implementation guide. This name should be usable as an identifier for the module by machine processing applications such as code generation.
+msgctxt "ImplementationGuide.ImplementationGuide.name"
+msgid "FHIRLangPackCzech"
+msgstr ""
+
+#. A short, descriptive, user-friendly title for the implementation guide.
+msgctxt "ImplementationGuide.ImplementationGuide.title"
+msgid "Language pack FHIR - čeština"
+msgstr ""
+
+#. The name of the organization or individual that published the implementation guide.
+msgctxt "ImplementationGuide.ImplementationGuide.publisher"
+msgid "HL7 Czech Republic"
+msgstr ""
+
+#. A free text natural language description of the implementation guide from a consumer's perspective.
+msgctxt "ImplementationGuide.ImplementationGuide.description"
+msgid "FHIR Language Pack - Czech Translations"
+msgstr ""
+
+#. The version of the IG that is depended on, when the correct version is required to understand the IG correctly.
+msgctxt "ImplementationGuide.ImplementationGuide.dependsOn.version"
+msgid "6.2.0"
+msgstr ""
+
+#. The version of the IG that is depended on, when the correct version is required to understand the IG correctly.
+msgctxt "ImplementationGuide.ImplementationGuide.dependsOn.version"
+msgid "5.2.0"
+msgstr ""
+
+#. The version of the IG that is depended on, when the correct version is required to understand the IG correctly.
+msgctxt "ImplementationGuide.ImplementationGuide.dependsOn.version"
+msgid "4.0.1"
+msgstr ""
+
+#. A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.name"
+msgid "ContactEntityType"
+msgstr ""
+
+#. A description of the reason that a resource has been included in the implementation guide.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.description"
+msgid "This example value set defines a set of codes that can be used to indicate the purpose for which you would contact a contact party."
+msgstr ""
+
+#. A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.name"
+msgid "NullFlavor"
+msgstr ""
+
+#. A description of the reason that a resource has been included in the implementation guide.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.description"
+msgid "A collection of codes specifying why a valid value is not present."
+msgstr ""
+
+#. A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.name"
+msgid "AccountStatus"
+msgstr ""
+
+#. A description of the reason that a resource has been included in the implementation guide.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.description"
+msgid "Indicates whether the account is available to be used."
+msgstr ""
+
+#. A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.name"
+msgid "AdministrativeGender"
+msgstr ""
+
+#. A description of the reason that a resource has been included in the implementation guide.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.description"
+msgid "The gender of a person used for administrative purposes."
+msgstr ""
+
+#. A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.name"
+msgid "MaritalStatus"
+msgstr ""
+
+#. A description of the reason that a resource has been included in the implementation guide.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.description"
+msgid "\* \* \* No description supplied \* \* \* *Open Issue:* The specific meanings of these codes can vary somewhat by jurisdiction and implementation so caution should be used when determining equivalency. *Open Issue:* fixing and completion of the hierarchy and proper good definitions of all the concepts is badly needed."
+msgstr ""
+
+#. A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.name"
+msgid "IdentifierUse"
+msgstr ""
+
+#. A description of the reason that a resource has been included in the implementation guide.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.description"
+msgid "Identifies the purpose for this identifier, if known ."
+msgstr ""
+
+#. A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.name"
+msgid "DaysOfWeek"
+msgstr ""
+
+#. A description of the reason that a resource has been included in the implementation guide.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.description"
+msgid "The days of the week."
+msgstr ""
+
+#. A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.name"
+msgid "ContactPointUse"
+msgstr ""
+
+#. A description of the reason that a resource has been included in the implementation guide.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.description"
+msgid "Use of contact point."
+msgstr ""
+
+#. A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.name"
+msgid "AddressType"
+msgstr ""
+
+#. A description of the reason that a resource has been included in the implementation guide.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.description"
+msgid "The type of an address (physical / postal)."
+msgstr ""
+
+#. A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.name"
+msgid "ContactRole2"
+msgstr ""
+
+#. A description of the reason that a resource has been included in the implementation guide.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.description"
+msgid "Code system of concepts which specify a relationship role that the next of kin/associated parties plays with regard to the patient. Also used in referrals, for example, it may be necessary to identify the contact representative at the clinic that sent a referral. Used in HL7 Version 2 messaging in the NK1 and CTD segments after 2.5, when it replace 2.16.840.1.113883.18.57."
+msgstr ""
+
+#. A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.name"
+msgid "ConditionVerificationStatus"
+msgstr ""
+
+#. A description of the reason that a resource has been included in the implementation guide.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.description"
+msgid "The verification status to support or decline the clinical status of the condition or diagnosis."
+msgstr ""
+
+#. A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.name"
+msgid "IdentifierType"
+msgstr ""
+
+#. A description of the reason that a resource has been included in the implementation guide.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.description"
+msgid "HL7-defined code system of concepts specifying type of identifier. Used in HL7 Version 2.x messaging data types CX, PLN, PPN, XCN and XON."
+msgstr ""
+
+#. A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.name"
+msgid "EntityNamePartQualifierR2"
+msgstr ""
+
+#. A description of the reason that a resource has been included in the implementation guide.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.description"
+msgid "**Description:**The qualifier is a set of codes each of which specifies a certain subcategory of the name part in addition to the main name part type. For example, a given name may be flagged as a nickname, a family name may be a pseudonym or a name of public records."
+msgstr ""
+
+#. A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.name"
+msgid "ContactPointSystem"
+msgstr ""
+
+#. A description of the reason that a resource has been included in the implementation guide.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.description"
+msgid "Telecommunications form for contact point."
+msgstr ""
+
+#. A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.name"
+msgid "NameUse"
+msgstr ""
+
+#. A description of the reason that a resource has been included in the implementation guide.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.description"
+msgid "The use of a human name."
+msgstr ""
+
+#. A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.name"
+msgid "AddressUse"
+msgstr ""
+
+#. A description of the reason that a resource has been included in the implementation guide.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.description"
+msgid "The use of an address."
+msgstr ""
+
+#. A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.name"
+msgid "LinkType"
+msgstr ""
+
+#. A description of the reason that a resource has been included in the implementation guide.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.resource.description"
+msgid "The type of link between this patient resource and another patient resource."
+msgstr ""
+
+#. A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.page.title"
+msgid "Home Page"
+msgstr ""
+
+#. Value for named type.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.parameter.value"
+msgid "input/capabilities"
+msgstr ""
+
+#. Value for named type.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.parameter.value"
+msgid "input/examples"
+msgstr ""
+
+#. Value for named type.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.parameter.value"
+msgid "input/extensions"
+msgstr ""
+
+#. Value for named type.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.parameter.value"
+msgid "input/models"
+msgstr ""
+
+#. Value for named type.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.parameter.value"
+msgid "input/operations"
+msgstr ""
+
+#. Value for named type.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.parameter.value"
+msgid "input/profiles"
+msgstr ""
+
+#. Value for named type.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.parameter.value"
+msgid "input/resources"
+msgstr ""
+
+#. Value for named type.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.parameter.value"
+msgid "input/vocabulary"
+msgstr ""
+
+#. Value for named type.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.parameter.value"
+msgid "input/maps"
+msgstr ""
+
+#. Value for named type.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.parameter.value"
+msgid "input/testing"
+msgstr ""
+
+#. Value for named type.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.parameter.value"
+msgid "input/history"
+msgstr ""
+
+#. Value for named type.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.parameter.value"
+msgid "fsh-generated/resources"
+msgstr ""
+
+#. Value for named type.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.parameter.value"
+msgid "template/config"
+msgstr ""
+
+#. Value for named type.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.parameter.value"
+msgid "input/images"
+msgstr ""
+
+#. Value for named type.
+msgctxt "ImplementationGuide.ImplementationGuide.definition.parameter.value"
+msgid "input-cache/txcache"
+msgstr ""
+

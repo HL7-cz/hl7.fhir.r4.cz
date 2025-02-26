@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Language: cs\n"
+"X-Generator: Poedit 3.5\n"
+
+# en -> cs
+
+msgctxt "usual"
+msgid "Usual"
+msgstr ""
+
+msgctxt "usual@definition"
+msgid "Known as/conventional/the one you normally use."
+msgstr ""
+
+msgctxt "official"
+msgid "Official"
+msgstr ""
+
+msgctxt "official@definition"
+msgid "The formal name as registered in an official (government) registry, but which name might not be commonly used. May be called "legal name"."
+msgstr ""
+
+msgctxt "temp"
+msgid "Temp"
+msgstr ""
+
+msgctxt "temp@definition"
+msgid "A temporary name. Name.period can provide more detailed information. This may also be used for temporary names assigned at birth or in emergency situations."
+msgstr ""
+
+msgctxt "nickname"
+msgid "Nickname"
+msgstr ""
+
+msgctxt "nickname@definition"
+msgid "A name that is used to address the person in an informal manner, but is not part of their formal or usual name."
+msgstr ""
+
+msgctxt "anonymous"
+msgid "Anonymous"
+msgstr ""
+
+msgctxt "anonymous@definition"
+msgid "Anonymous assigned name, alias, or pseudonym (used to protect a person's identity for privacy reasons)."
+msgstr ""
+
+msgctxt "old"
+msgid "Old"
+msgstr ""
+
+msgctxt "old@definition"
+msgid "This name is no longer in use (or was never correct, but retained for records)."
+msgstr ""
+
+msgctxt "maiden"
+msgid "Name changed for Marriage"
+msgstr ""
+
+msgctxt "maiden@definition"
+msgid "A name used prior to changing name because of marriage. This name use is for use by applications that collect and store names that were used prior to a marriage. Marriage naming customs vary greatly around the world, and are constantly changing. This term is not gender specific. The use of this term does not imply any particular history for a person's name."
+msgstr ""
+

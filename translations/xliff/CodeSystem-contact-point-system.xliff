@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="cs" id="CodeSystem-contact-point-system" original="Resource CodeSystem-contact-point-system" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-contact-point-system" resname="phone">
+        <source>Phone</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-system" resname="phone@definition">
+        <source>The value is a telephone number used for voice calls. Use of full international numbers starting with + is recommended to enable automatic dialing support but not required.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-system" resname="fax">
+        <source>Fax</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-system" resname="fax@definition">
+        <source>The value is a fax machine. Use of full international numbers starting with + is recommended to enable automatic dialing support but not required.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-system" resname="email">
+        <source>Email</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-system" resname="email@definition">
+        <source>The value is an email address.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-system" resname="pager">
+        <source>Pager</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-system" resname="pager@definition">
+        <source>The value is a pager number. These may be local pager numbers that are only usable on a particular pager system.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-system" resname="url">
+        <source>URL</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-system" resname="url@definition">
+        <source>A contact that is not a phone, fax, pager or email address and is expressed as a URL.  This is intended for various institutional or personal contacts including web sites, blogs, Skype, Twitter, Facebook, etc. Do not use for email addresses.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-system" resname="sms">
+        <source>SMS</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-system" resname="sms@definition">
+        <source>A contact that can be used for sending an sms message (e.g. mobile phones, some landlines).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-system" resname="other">
+        <source>Other</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contact-point-system" resname="other@definition">
+        <source>A contact that is not a phone, fax, page or email address and is not expressible as a URL.  E.g. Internal mail address.  This SHOULD NOT be used for contacts that are expressible as a URL (e.g. Skype, Twitter, Facebook, etc.)  Extensions may be used to distinguish &quot;other&quot; contact types.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

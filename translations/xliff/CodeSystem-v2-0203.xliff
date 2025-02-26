@@ -1,0 +1,1112 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="cs" id="CodeSystem-v2-0203" original="Resource CodeSystem-v2-0203" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-v2-0203" resname="AC">
+        <source>Accreditation/Certification Identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="AC@definition">
+        <source>Identifier that has been assigned by an accreditation or certification organization in specific fields, indicating a recognized skill</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="ACSN">
+        <source>Accession ID</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="ACSN@definition">
+        <source>Accession Identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="AIN">
+        <source>Animal Identification Number (US Official)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="AIN@definition">
+        <source>A numbering system for the official identification of individual animals in the United States that provides a nationally unique identification number for each animal. The first two numbers on a tag are the numbers assigned to a specific State.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="AM">
+        <source>American Express</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="AM@definition">
+        <source>American Express</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="AMA">
+        <source>American Medical Association Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="AMA@definition">
+        <source>A physician identifier assigned by the AMA.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="AN">
+        <source>Account number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="AN@definition">
+        <source>Account An identifier that is unique to an account.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="ANC">
+        <source>Account number Creditor</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="ANC@definition">
+        <source>A more precise definition of an account number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="AND">
+        <source>Account number debitor</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="AND@definition">
+        <source>A more precise definition of an account number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="ANON">
+        <source>Anonymous identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="ANON@definition">
+        <source>An identifier for a living subject whose real identity is protected or suppressed</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="ANT">
+        <source>Temporary Account Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="ANT@definition">
+        <source>Temporary version of an Account Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="APRN">
+        <source>Advanced Practice Registered Nurse number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="APRN@definition">
+        <source>An identifier that is unique to an advanced practice registered nurse within the jurisdiction of a certifying board</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="ASID">
+        <source>Ancestor Specimen ID</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="ASID@definition">
+        <source>A unique identifier for the ancestor specimen.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="BA">
+        <source>Bank Account Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="BA@definition">
+        <source>Bank Account Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="BC">
+        <source>Bank Card Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="BC@definition">
+        <source>An identifier that is unique to a person's bank card</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="BCFN">
+        <source>Birth Certificate File Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="BCFN@definition">
+        <source>The identifier used within the jurisdictional vital records office file system as an auxiliary means of accessing the record associated with the birth certificate.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="BCT">
+        <source>Birth Certificate</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="BCT@definition">
+        <source>A number associated with a document identifying the event of a person's birth</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="BR">
+        <source>Birth registry number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="BR@definition">
+        <source>An identifier unique within the Assigning Authority that is the official legal record of a person's birth.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="BRN">
+        <source>Breed Registry Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="BRN@definition">
+        <source>Breed Registry Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="BSNR">
+        <source>Primary physician office number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="BSNR@definition">
+        <source>Primary physician office number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="CAAI">
+        <source>Consumer Application Account Identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="CAAI@definition">
+        <source>An identifier for the consumer (e.g., patient, caregiver) for an application such as a portal or App.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="CC">
+        <source>Cost Center number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="CC@definition">
+        <source>Cost Center number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="CONM">
+        <source>Change of Name Document</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="CONM@definition">
+        <source>A number associated with a document identifying a person's legal change of name.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="CY">
+        <source>County number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="CY@definition">
+        <source>County number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="CZ">
+        <source>Citizenship Card</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="CZ@definition">
+        <source>A number assigned by a person's country of residence to identify a person's citizenship.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DC">
+        <source>Death Certificate ID</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DC@definition">
+        <source>The identifier assigned to a death certificate, and printed on the death certificate when issued by a jurisdictional vital records office</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DCFN">
+        <source>Death Certificate File Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DCFN@definition">
+        <source>The identifier used within the jurisdictional vital records office file system as an auxiliary means of accessing the record associated with the death certificate.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DDS">
+        <source>Dentist license number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DDS@definition">
+        <source>An identifier that is unique to a dentist within the jurisdiction of the licensing board</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DEA">
+        <source>Drug Enforcement Administration registration number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DEA@definition">
+        <source>An identifier for an individual or organization relative to controlled substance regulation and transactions.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DFN">
+        <source>Drug Furnishing or prescriptive authority Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DFN@definition">
+        <source>An identifier issued to a health care provider authorizing the person to write drug orders</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DI">
+        <source>Diner's Club card</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DI@definition">
+        <source>Diner's Club card</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DL">
+        <source>Driver's license number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DL@definition">
+        <source>Driver's license number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DN">
+        <source>Doctor number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DN@definition">
+        <source>Doctor number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DO">
+        <source>Osteopathic License number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DO@definition">
+        <source>An identifier that is unique to an osteopath within the jurisdiction of a licensing board.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DP">
+        <source>Diplomatic Passport</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DP@definition">
+        <source>A number assigned to a diplomatic passport.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DPM">
+        <source>Podiatrist license number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DPM@definition">
+        <source>An identifier that is unique to a podiatrist within the jurisdiction of the licensing board.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DR">
+        <source>Donor Registration Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DR@definition">
+        <source>Donor Registration Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DS">
+        <source>Discover Card</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DS@definition">
+        <source>Discover Card</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DSG">
+        <source>Diagnostic Study Group</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="DSG@definition">
+        <source>Unique Identifier that groups several orders that are to be performed together.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="EI">
+        <source>Employee number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="EI@definition">
+        <source>A number that uniquely identifies an employee to an employer.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="EN">
+        <source>Employer number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="EN@definition">
+        <source>Employer number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="ESN">
+        <source>Staff Enterprise Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="ESN@definition">
+        <source>An identifier that is unique to a staff member within an enterprise (as identified by the Assigning Authority).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="FDR">
+        <source>Fetal Death Report ID</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="FDR@definition">
+        <source>The identifier assigned to a fetal death report, and printed on the fetal death report when issued by a jurisdictional vital records office</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="FDRFN">
+        <source>Fetal Death Report File Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="FDRFN@definition">
+        <source>The identifier used within the jurisdictional vital records office file system as an auxiliary means of accessing the record associated with the fetal death report certificate.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="FGN">
+        <source>Filler Group Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="FGN@definition">
+        <source>Unique identifier assigned to a group of orders by the filler application.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="FI">
+        <source>Facility ID</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="FI@definition">
+        <source>Facility ID</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="FILL">
+        <source>Filler Identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="FILL@definition">
+        <source>An identifier for a request where the identifier is issued by the person, or service, that produces the observations or fulfills the request.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="GI">
+        <source>Guarantor internal identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="GI@definition">
+        <source>Guarantor internal identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="GIN">
+        <source>Animal Group Identifier (US Official)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="GIN@definition">
+        <source>Identifier that can be used to unambiguously describe a specific group of animals.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="GL">
+        <source>General ledger number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="GL@definition">
+        <source>General ledger number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="GN">
+        <source>Guarantor external  identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="GN@definition">
+        <source>Guarantor external  identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="HC">
+        <source>Health Card Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="HC@definition">
+        <source>Health Card Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="IND">
+        <source>Indigenous/Aboriginal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="IND@definition">
+        <source>A number assigned to a member of an indigenous or aboriginal group outside of Canada.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="IRISTEM">
+        <source>An IRI stem</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="IRISTEM@definition">
+        <source>An IRI string that can be prepended to the code to obtain a concept IRI for RDF applications. This should be a valid, absolute IRI as defined in RFC 3987. See https://hl7.org/fhir/rdf.html#iri-stem for details on how this value may be used.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="JHN">
+        <source>Jurisdictional health number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="JHN@definition">
+        <source>Jurisdictional health number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="LACSN">
+        <source>Laboratory Accession ID</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="LACSN@definition">
+        <source>A laboratory accession id is used in the laboratory domain.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="LANR">
+        <source>Lifelong physician number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="LANR@definition">
+        <source>Lifelong physician number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="LI">
+        <source>Labor and industries number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="LI@definition">
+        <source>Labor and industries number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="L&I">
+        <source>Labor and industries number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="L&I@definition">
+        <source>Labor and industries number.  Note that this was introduced erroneously (with an ampersand in the code value) many years ago.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="LN">
+        <source>License number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="LN@definition">
+        <source>License number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="LR">
+        <source>Local Registry ID</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="LR@definition">
+        <source>Local Registry ID</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MA">
+        <source>Patient Medicaid number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MA@definition">
+        <source>Patient Medicaid number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MB">
+        <source>Member Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MB@definition">
+        <source>An identifier for the insured of an insurance policy (this insured always has a subscriber), usually assigned by the insurance carrier.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MC">
+        <source>Patient's Medicare number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MC@definition">
+        <source>Patient's Medicare number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MCD">
+        <source>Practitioner Medicaid number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MCD@definition">
+        <source>Practitioner Medicaid number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MCN">
+        <source>Microchip Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MCN@definition">
+        <source>Microchip Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MCR">
+        <source>Practitioner Medicare number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MCR@definition">
+        <source>Practitioner Medicare number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MCT">
+        <source>Marriage Certificate</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MCT@definition">
+        <source>A number associated with a document identifying the event of a person's marriage.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MD">
+        <source>Medical License number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MD@definition">
+        <source>An identifier that is unique to a medical doctor within the jurisdiction of a licensing board.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MI">
+        <source>Military ID number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MI@definition">
+        <source>A number assigned to an individual who has had military duty, but is not currently on active duty. The number is assigned by the DOD or Veterans' Affairs (VA).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MR">
+        <source>Medical record number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MR@definition">
+        <source>An identifier that is unique to a patient within a set of medical records, not necessarily unique within an application.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MRT">
+        <source>Temporary Medical Record Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MRT@definition">
+        <source>Temporary version of a Medical Record Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MS">
+        <source>MasterCard</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="MS@definition">
+        <source>MasterCard</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="NBSNR">
+        <source>Secondary physician office number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="NBSNR@definition">
+        <source>Secondary physician office number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="NCT">
+        <source>Naturalization Certificate</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="NCT@definition">
+        <source>A number associated with a document identifying a person's retention of citizenship in a particular country.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="NE">
+        <source>National employer identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="NE@definition">
+        <source>National employer identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="NH">
+        <source>National Health Plan Identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="NH@definition">
+        <source>National Health Plan Identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="NI">
+        <source>National unique individual identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="NI@definition">
+        <source>National unique individual identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="NII">
+        <source>National Insurance Organization Identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="NII@definition">
+        <source>National Insurance Organization Identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="NIIP">
+        <source>National Insurance Payor Identifier (Payor)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="NIIP@definition">
+        <source>National Insurance Payor Identifier (Payor)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="NNxxx">
+        <source>National Person Identifier where the xxx is the ISO table 3166 3-character (alphabetic) country code</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="NNxxx@definition">
+        <source>National Person Identifier where the xxx is the ISO table 3166 3-character (alphabetic) country code</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="NP">
+        <source>Nurse practitioner number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="NP@definition">
+        <source>An identifier that is unique to a nurse practitioner within the jurisdiction of a certifying board.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="NPI">
+        <source>National provider identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="NPI@definition">
+        <source>National provider identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="OBI">
+        <source>Observation Instance Identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="OBI@definition">
+        <source>Unique and persistent identifier for an observation instance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="OD">
+        <source>Optometrist license number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="OD@definition">
+        <source>A number that is unique to an individual optometrist within the jurisdiction of the licensing board.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PA">
+        <source>Physician Assistant number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PA@definition">
+        <source>An identifier that is unique to a physician assistant within the jurisdiction of a licensing board</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PC">
+        <source>Parole Card</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PC@definition">
+        <source>A number identifying a person on parole.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PCN">
+        <source>Penitentiary/correctional institution Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PCN@definition">
+        <source>A number assigned to individual who is incarcerated.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PE">
+        <source>Living Subject Enterprise Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PE@definition">
+        <source>An identifier that is unique to a living subject within an enterprise (as identified by the Assigning Authority).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PEN">
+        <source>Pension Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PEN@definition">
+        <source>Pension Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PGN">
+        <source>Placer Group Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PGN@definition">
+        <source>Unique identifier assigned to a group of orders by the placer application.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PHC">
+        <source>Public Health Case Identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PHC@definition">
+        <source>Identifier assigned to a person during a case investigation as part of a public health event</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PHE">
+        <source>Public Health Event Identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PHE@definition">
+        <source>Identifier assigned to an event of interest to public health</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PHO">
+        <source>Public Health Official ID</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PHO@definition">
+        <source>An identifier for a person working at a public health agency (PHA),  assigned or issued by the agency</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PI">
+        <source>Patient internal identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PI@definition">
+        <source>A number that is unique to a patient within an Assigning Authority.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PIN">
+        <source>Premises Identifier Number (US Official)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PIN@definition">
+        <source>Identifier that uniquely identifies a geographic location in the US.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PLAC">
+        <source>Placer Identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PLAC@definition">
+        <source>An identifier for a request where the identifier is issued by the person or service making the request.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PN">
+        <source>Person number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PN@definition">
+        <source>A number that is unique to a living subject within an Assigning Authority.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PNT">
+        <source>Temporary Living Subject Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PNT@definition">
+        <source>Temporary version of a Living Subject Number.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PPIN">
+        <source>Medicare/CMS Performing Provider Identification Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PPIN@definition">
+        <source>Medicare/CMS Performing Provider Identification Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PPN">
+        <source>Passport number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PPN@definition">
+        <source>A unique number assigned to the document affirming that a person is a citizen of the country.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PRC">
+        <source>Permanent Resident Card Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PRC@definition">
+        <source>Permanent Resident Card Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PRN">
+        <source>Provider number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PRN@definition">
+        <source>A number that is unique to an individual provider, a provider group or an organization within an Assigning Authority.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PT">
+        <source>Patient external identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="PT@definition">
+        <source>Patient external identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="QA">
+        <source>QA number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="QA@definition">
+        <source>QA number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="RI">
+        <source>Resource identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="RI@definition">
+        <source>A generalized resource identifier.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="RN">
+        <source>Registered Nurse Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="RN@definition">
+        <source>An identifier that is unique to a registered nurse within the jurisdiction of the licensing board.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="RPH">
+        <source>Pharmacist license number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="RPH@definition">
+        <source>An identifier that is unique to a pharmacist within the jurisdiction of the licensing board.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="RR">
+        <source>Railroad Retirement number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="RR@definition">
+        <source>An identifier for an individual enrolled with the Railroad Retirement Administration.  Analogous to, but distinct from, a Social Security Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="RRI">
+        <source>Regional registry ID</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="RRI@definition">
+        <source>Regional registry ID</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="RRP">
+        <source>Railroad Retirement Provider</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="RRP@definition">
+        <source>Railroad Retirement Provider</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SAMN">
+        <source>SAMN# accession Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SAMN@definition">
+        <source>The accession number for the BioSample data repository at the National Center for Biotechnology Information (NCBI)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SB">
+        <source>Social Beneficiary Identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SB@definition">
+        <source>An identifier issued by a governmental organization to a person to identify the person should they apply for or receive social services and/or benefits</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SID">
+        <source>Specimen ID</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SID@definition">
+        <source>Identifier for a specimen.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SL">
+        <source>State license</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SL@definition">
+        <source>State license</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SN">
+        <source>Subscriber Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SN@definition">
+        <source>An identifier for a subscriber of an insurance policy which is unique for, and usually assigned by, the insurance carrier.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SNBSN">
+        <source>State assigned NDBS card Identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SNBSN@definition">
+        <source>The identifier on a Newborn Screening Dried Bloodspot (NDBS) card that is assigned by the state which provided the sample collection cards and to whom this information must be reported</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SNO">
+        <source>Serial Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SNO@definition">
+        <source>An identifier affixed to an item by the manufacturer when it is first made, where each item has a different identifier.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SP">
+        <source>Study Permit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SP@definition">
+        <source>A number associated with a permit identifying a person who is a resident of a jurisdiction for the purpose of education.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SR">
+        <source>State registry ID</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SR@definition">
+        <source>State registry ID</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SRX">
+        <source>SRA Accession number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SRX@definition">
+        <source>The accession number generated by the Sequence Read Archive (SRA) at the National Center for Biotechnology Information (NCBI) when sequence data are uploaded to NCBI.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SS">
+        <source>Social Security number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="SS@definition">
+        <source>Social Security number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="STN">
+        <source>Shipment Tracking Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="STN@definition">
+        <source>Identifier assigned to a package being shipped</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="TAX">
+        <source>Tax ID number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="TAX@definition">
+        <source>Tax ID number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="TN">
+        <source>Treaty Number/ (Canada)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="TN@definition">
+        <source>A number assigned to a member of an indigenous group in Canada.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="TPR">
+        <source>Temporary Permanent Resident (Canada)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="TPR@definition">
+        <source>A number associated with a document identifying a person's temporary permanent resident status.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="TRL">
+        <source>Training License Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="TRL@definition">
+        <source>The license number used during training.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="U">
+        <source>Unspecified identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="U@definition">
+        <source>Unspecified identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="UDI">
+        <source>Universal Device Identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="UDI@definition">
+        <source>An identifier assigned to a device using the Unique Device Identification framework as defined by IMDRF (http://imdrf.org).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="UPIN">
+        <source>Medicare/CMS (formerly HCFA)'s Universal Physician Identification numbers</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="UPIN@definition">
+        <source>An identifier for a provider within the CMS/Medicare program.  A globally unique identifier for the provider in the Medicare program.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="USID">
+        <source>Unique Specimen ID</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="USID@definition">
+        <source>A unique identifier for a specimen.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="VN">
+        <source>Visit number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="VN@definition">
+        <source>Visit number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="VP">
+        <source>Visitor Permit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="VP@definition">
+        <source>A number associated with a document identifying a person as a visitor of a jurisdiction or country.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="VS">
+        <source>VISA</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="VS@definition">
+        <source>VISA</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="WC">
+        <source>WIC identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="WC@definition">
+        <source>WIC identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="WCN">
+        <source>Workers' Comp Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="WCN@definition">
+        <source>Workers' Comp Number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="WP">
+        <source>Work Permit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="WP@definition">
+        <source>A number associated with a permit for a person who is granted permission to work in a country for a specified time period.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="XV">
+        <source>Health Plan Identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="XV@definition">
+        <source>National unique health plan identifier required by the US Department of Health and Human Services, Centers for Medicare and Medicaid Services (CMS) in the US Realm.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="XX">
+        <source>Organization identifier</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-v2-0203" resname="XX@definition">
+        <source>Organization identifier</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="cs" id="CodeSystem-link-type" original="Resource CodeSystem-link-type" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-link-type" resname="replaced-by">
+        <source>Replaced-by</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-link-type" resname="replaced-by@definition">
+        <source>The patient resource containing this link must no longer be used. The link points forward to another patient resource that must be used in lieu of the patient resource that contains this link.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-link-type" resname="replaces">
+        <source>Replaces</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-link-type" resname="replaces@definition">
+        <source>The patient resource containing this link is the current active patient record. The link points back to an inactive patient resource that has been merged into this resource, and should be consulted to retrieve additional referenced information.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-link-type" resname="refer">
+        <source>Refer</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-link-type" resname="refer@definition">
+        <source>The patient resource containing this link is in use and valid but not considered the main source of information about a patient. The link points forward to another patient resource that should be consulted to retrieve additional patient information.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-link-type" resname="seealso">
+        <source>See also</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-link-type" resname="seealso@definition">
+        <source>The patient resource containing this link is in use and valid, but points to another patient resource that is known to contain data about the same person. Data in this resource might overlap or contradict information found in the other patient resource. This link does not indicate any relative importance of the resources concerned, and both should be regarded as equally valid.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

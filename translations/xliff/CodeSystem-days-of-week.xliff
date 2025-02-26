@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="cs" id="CodeSystem-days-of-week" original="Resource CodeSystem-days-of-week" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-days-of-week" resname="mon">
+        <source>Monday</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-days-of-week" resname="mon@definition">
+        <source>Monday.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-days-of-week" resname="tue">
+        <source>Tuesday</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-days-of-week" resname="tue@definition">
+        <source>Tuesday.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-days-of-week" resname="wed">
+        <source>Wednesday</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-days-of-week" resname="wed@definition">
+        <source>Wednesday.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-days-of-week" resname="thu">
+        <source>Thursday</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-days-of-week" resname="thu@definition">
+        <source>Thursday.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-days-of-week" resname="fri">
+        <source>Friday</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-days-of-week" resname="fri@definition">
+        <source>Friday.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-days-of-week" resname="sat">
+        <source>Saturday</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-days-of-week" resname="sat@definition">
+        <source>Saturday.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-days-of-week" resname="sun">
+        <source>Sunday</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-days-of-week" resname="sun@definition">
+        <source>Sunday.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,61 @@
+{
+  "id" : "CodeSystem-contact-point-use",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "cs",
+      "entries" : [
+        {
+          "id" : "home",
+          "source" : "Home",
+          "target" : null
+        },
+        {
+          "id" : "home@definition",
+          "source" : "A communication contact point at a home; attempted contacts for business purposes might intrude privacy and chances are one will contact family or other household members instead of the person one wishes to call. Typically used with urgent cases, or if no other contacts are available.",
+          "target" : null
+        },
+        {
+          "id" : "work",
+          "source" : "Work",
+          "target" : null
+        },
+        {
+          "id" : "work@definition",
+          "source" : "An office contact point. First choice for business related contacts during business hours.",
+          "target" : null
+        },
+        {
+          "id" : "temp",
+          "source" : "Temp",
+          "target" : null
+        },
+        {
+          "id" : "temp@definition",
+          "source" : "A temporary contact point. The period can provide more detailed information.",
+          "target" : null
+        },
+        {
+          "id" : "old",
+          "source" : "Old",
+          "target" : null
+        },
+        {
+          "id" : "old@definition",
+          "source" : "This contact point is no longer in use (or was never correct, but retained for records).",
+          "target" : null
+        },
+        {
+          "id" : "mobile",
+          "source" : "Mobile",
+          "target" : null
+        },
+        {
+          "id" : "mobile@definition",
+          "source" : "A telecommunication device that moves and stays with its owner. May have characteristics of all other use codes, suitable for urgent matters, not the first choice for routine business.",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}

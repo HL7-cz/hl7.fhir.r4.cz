@@ -1,0 +1,71 @@
+{
+  "id" : "CodeSystem-administrative-gender",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "cs",
+      "entries" : [
+        {
+          "id" : "male",
+          "source" : "Male",
+          "target" : null
+        },
+        {
+          "id" : "male@definition",
+          "source" : "Male.",
+          "target" : null
+        },
+        {
+          "id" : "male@codesystem-concept-comments",
+          "source" : "Male",
+          "target" : null
+        },
+        {
+          "id" : "female",
+          "source" : "Female",
+          "target" : null
+        },
+        {
+          "id" : "female@definition",
+          "source" : "Female.",
+          "target" : null
+        },
+        {
+          "id" : "female@codesystem-concept-comments",
+          "source" : "Female",
+          "target" : null
+        },
+        {
+          "id" : "other",
+          "source" : "Other",
+          "target" : null
+        },
+        {
+          "id" : "other@definition",
+          "source" : "Other.",
+          "target" : null
+        },
+        {
+          "id" : "other@codesystem-concept-comments",
+          "source" : "The administrative gender is a value other than male/female/unknown. Where this value is selected, systems may often choose to include an extension with the localized more specific value.",
+          "target" : null
+        },
+        {
+          "id" : "unknown",
+          "source" : "Unknown",
+          "target" : null
+        },
+        {
+          "id" : "unknown@definition",
+          "source" : "Unknown.",
+          "target" : null
+        },
+        {
+          "id" : "unknown@codesystem-concept-comments",
+          "source" : "A proper value is applicable, but not known.  Usage Notes: This means the actual value is not known. If the only thing that is unknown is how to properly express the value in the necessary constraints (value set, datatype, etc.), then the OTH or UNC flavor should be used. No properties should be included for a datatype with this property unless:  Those properties themselves directly translate to a semantic of \"unknown\". (E.g. a local code sent as a translation that conveys 'unknown') Those properties further qualify the nature of what is unknown. (E.g. specifying a use code of \"H\" and a URL prefix of \"tel:\" to convey that it is the home phone number that is unknown.)",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}

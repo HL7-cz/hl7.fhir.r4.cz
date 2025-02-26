@@ -1,0 +1,61 @@
+{
+  "id" : "CodeSystem-address-use",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "cs",
+      "entries" : [
+        {
+          "id" : "home",
+          "source" : "Home",
+          "target" : null
+        },
+        {
+          "id" : "home@definition",
+          "source" : "A communication address at a home.",
+          "target" : null
+        },
+        {
+          "id" : "work",
+          "source" : "Work",
+          "target" : null
+        },
+        {
+          "id" : "work@definition",
+          "source" : "An office address. First choice for business related contacts during business hours.",
+          "target" : null
+        },
+        {
+          "id" : "temp",
+          "source" : "Temporary",
+          "target" : null
+        },
+        {
+          "id" : "temp@definition",
+          "source" : "A temporary address. The period can provide more detailed information.",
+          "target" : null
+        },
+        {
+          "id" : "old",
+          "source" : "Old / Incorrect",
+          "target" : null
+        },
+        {
+          "id" : "old@definition",
+          "source" : "This address is no longer in use (or was never correct but retained for records).",
+          "target" : null
+        },
+        {
+          "id" : "billing",
+          "source" : "Billing",
+          "target" : null
+        },
+        {
+          "id" : "billing@definition",
+          "source" : "An address to be used to send bills, invoices, receipts etc.",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}

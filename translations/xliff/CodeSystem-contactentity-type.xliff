@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="cs" id="CodeSystem-contactentity-type" original="Resource CodeSystem-contactentity-type" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-contactentity-type" resname="BILL">
+        <source>Billing</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contactentity-type" resname="BILL@definition">
+        <source>Contact details for information regarding to billing/general finance enquiries.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contactentity-type" resname="ADMIN">
+        <source>Administrative</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contactentity-type" resname="ADMIN@definition">
+        <source>Contact details for administrative enquiries.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contactentity-type" resname="HR">
+        <source>Human Resource</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contactentity-type" resname="HR@definition">
+        <source>Contact details for issues related to Human Resources, such as staff matters, OH&amp;S etc.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contactentity-type" resname="PAYOR">
+        <source>Payor</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contactentity-type" resname="PAYOR@definition">
+        <source>Contact details for dealing with issues related to insurance claims/adjudication/payment.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contactentity-type" resname="PATINF">
+        <source>Patient</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contactentity-type" resname="PATINF@definition">
+        <source>Generic information contact for patients.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contactentity-type" resname="PRESS">
+        <source>Press</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-contactentity-type" resname="PRESS@definition">
+        <source>Dedicated contact point for matters relating to press enquiries.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
