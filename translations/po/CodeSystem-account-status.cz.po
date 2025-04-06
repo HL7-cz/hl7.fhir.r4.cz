@@ -1,47 +1,54 @@
 msgid ""
 msgstr ""
-"Language: cs\n"
-"X-Generator: Poedit 3.5\n"
+"PO-Revision-Date: 2025-04-07 08:15+0000\n"
+"Last-Translator: Weblate Admin <kruzik@gnomon.cz>\n"
+"Language-Team: Czech <http://weblate.gnomon.cz/projects/hl7-terminology/"
+"account-status/cs/>\n"
+"Language: cz\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.10.4\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 # en -> cs
-
 msgctxt "active"
 msgid "Active"
-msgstr ""
+msgstr "aktivní"
 
 msgctxt "active@definition"
 msgid "This account is active and may be used."
-msgstr ""
+msgstr "Tento účet je aktivní a může být použit."
 
 msgctxt "inactive"
 msgid "Inactive"
-msgstr ""
+msgstr "neaktivní"
 
 msgctxt "inactive@definition"
 msgid "This account is inactive and should not be used to track financial information."
 msgstr ""
+"Tento účet je neaktivní a neměl by být používán ke sledování finančních "
+"informací."
 
 msgctxt "entered-in-error"
 msgid "Entered in error"
-msgstr ""
+msgstr "zadáno chybně"
 
 msgctxt "entered-in-error@definition"
 msgid "This instance should not have been part of this patient's medical record."
-msgstr ""
+msgstr "Tento údaj neměl být součástí zdravotnické dokumentace tohoto pacienta."
 
 msgctxt "on-hold"
 msgid "On Hold"
-msgstr ""
+msgstr "pozastaven"
 
 msgctxt "on-hold@definition"
 msgid "This account is on hold."
-msgstr ""
+msgstr "Tento účet je pozastaven."
 
 msgctxt "unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "neznámý"
 
 msgctxt "unknown@definition"
 msgid "The account status is unknown."
-msgstr ""
-
+msgstr "Stav účtu není znám."
